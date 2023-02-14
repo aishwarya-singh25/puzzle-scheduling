@@ -14,6 +14,8 @@
 ![](static/hold_times_dist2.png)
 
 
+![](static/member_freq_dist.png)
+
 ## Puzzle Packs EDA
 
 2. packs.tsv
