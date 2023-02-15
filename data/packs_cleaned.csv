@@ -1,0 +1,910 @@
+,pack_name,brand_0,brand_1,pieces_0,pieces_1,diff_0,diff_1,num_puzzles,diff_0_num,diff_1_num
+0,Anne Belle Thompson The Mikado Anne Belle Thompson Two Kimonos,Other-Hand-cut,,387.0,242.0,Average,Average,2.0,2.0,2.0
+1,Anthology Puzzles Alphonse Mucha La Plume Anthology Puzzles Fun at the Fair,,,320.0,160.0,Average,Average,2.0,2.0,2.0
+2,Anthology Puzzles Colorful Cat Anthology Puzzles Life On The Reef,,,150.0,170.0,Average,Average,2.0,2.0,2.0
+3,Anthology Puzzles Framed American Gothic Anthology Puzzles Haeckel Floral,,,320.0,300.0,Average,Average,2.0,2.0,2.0
+4,Anthology Puzzles Over The Moon Anthology Puzzles Happy House Plants,,,278.0,177.0,Hard,A-Easy,2.0,3.0,1.0
+5,Anthology Puzzles Wassily Kandinsky Houses At Murnau Anthology Puzzles Kite Flite,,,320.0,150.0,Hard,A-Easy,2.0,3.0,1.0
+6,Artifact Puzzles Abraham Storck Arctic Artifact Puzzles Klimt Hope,Artifact,,76.0,137.0,A-Easy,A-Easy,2.0,1.0,1.0
+7,Artifact Puzzles After the Tiger Hunt Artifact Puzzles Monet Chrysanthemums,Artifact,,373.0,262.0,Average,Average,2.0,2.0,2.0
+8,Artifact Puzzles Amedeo Simonetti Artifact Puzzles Renoir Pears,Artifact,,269.0,166.0,Hard,A-Easy,2.0,3.0,1.0
+9,Artifact Puzzles Bee Eater Artifact Puzzles Kevin Sloan Welcome to the Wilderness,Artifact,,439.0,418.0,Hard,A-Easy,2.0,3.0,1.0
+10,Artifact Puzzles Bek Cruddace Europe Map ,Artifact,,900.0,,Average,,1.0,2.0,
+11,Artifact Puzzles Breach Of Contract Artifact Puzzles Claire Henley Sailing Round The Mount,Artifact,,268.0,256.0,Average,Average,2.0,2.0,2.0
+12,Artifact Puzzles Captive Unicorn Artifact Puzzles David Teniers Temptation of St. Anthony,Artifact,,159.0,210.0,Hard,Hard,2.0,3.0,3.0
+13,Artifact Puzzles Christopher Wood Anemones Artifact Puzzles Paul Bond Interpretation Of Home,Artifact,,154.0,169.0,Average,Average,2.0,2.0,2.0
+14,Artifact Puzzles Daniel Merriam Man In The Moon Artifact Puzzles Daniel Merriam  Tailspin,Artifact,,357.0,303.0,Average,Hard,2.0,2.0,3.0
+15,Artifact Puzzles Eric Joyner Tiger Mountain Artifact Puzzles APAK Fruit of Dreams,Artifact,,189.0,175.0,A-Easy,A-Easy,2.0,1.0,1.0
+16,Artifact Puzzles Erin Hanson Crystal Grove Artifact Puzzles Angie Rees Precious Cargo,Artifact,,357.0,399.0,Really-Hard,Average,2.0,4.0,2.0
+17,Artifact Puzzles Erin Hanson Dawning Saguaro Artifact Puzzles Jethro Buck Fishies,Artifact,,418.0,355.0,Hard,Really-Hard,2.0,3.0,4.0
+18,Artifact Puzzles Erin Hanson Dawning Saguaro Artifact Puzzles Kristian Adam Snoozies,Artifact,,418.0,413.0,Average,Average,2.0,2.0,2.0
+19,Artifact Puzzles Florine Stettheimer Asbury Park South Artifact Puzzles Kandinsky Squares with Concentric Circles,Artifact,,100.0,191.0,Average,Average,2.0,2.0,2.0
+20,Artifact Puzzles Fred Lisaius Every Little Thing Artifact Puzzles Liv Wan Italy Map,Artifact,,352.0,385.0,Average,Average,2.0,2.0,2.0
+21,Artifact Puzzles Gustav Klimt Baby Artifact Puzzles Karla Gerard By The Sea,Artifact,,295.0,356.0,Average,A-Easy,2.0,2.0,1.0
+22,Artifact Puzzles Henri Charles Manguin Les Renoncules Artifact Puzzles Sakakibara Shiho Early Spring,Artifact,,173.0,109.0,A-Easy,A-Easy,2.0,1.0,1.0
+23,Artifact Puzzles Hopwood-Wade Emu Afternoon Tea Artifact Puzzles Justin Hillgrove Word Travels South,Artifact,,346.0,456.0,A-Easy,A-Easy,2.0,1.0,1.0
+24,Artifact Puzzles Jethro Buck Fishies Artifact Puzzles Jim Flora Tampico,Artifact,,355.0,296.0,Really-Hard,A-Easy,2.0,4.0,1.0
+25,Artifact Puzzles Joan de Burgunya Virgin and Child Artifact Puzzles Bruegel Tower of Babel,Artifact,,391.0,377.0,Average,Average,2.0,2.0,2.0
+26,Artifact Puzzles Kandinsky Squares With Concentric Circles Artifact Puzzles Kandinsky Tensions Eased,Artifact,,191.0,126.0,Average,Average,2.0,2.0,2.0
+27,Artifact Puzzles Kathryn Freeman Forest Nocturne Artifact Puzzles Hofmeister Flotilla Before Algiers,Artifact,,310.0,440.0,Average,Average,2.0,2.0,2.0
+28,Artifact Puzzles Kathryn Freeman The Sunday Paper Artifact Puzzles Sandi Rigby Tree of Wisdom Wooden,Artifact,,177.0,68.0,A-Easy,Average,2.0,1.0,2.0
+29,Artifact Puzzles Kessel Bugs Double-sided  Artifact Puzzles Fernand Pelez Saltimbanques,Artifact,,119.0,169.0,Average,Average,2.0,2.0,2.0
+30,Artifact Puzzles Kozyndan Ode To California Artifact Puzzles Liv Wan Africa Map,,,361.0,,,,1.0,2.0,
+31,Artifact Puzzles Kristian Adam Chippy Artifact Puzzles Diego Mazzeo Mechanical Griffin,,,361.0,,,,1.0,2.0,
+32,Artifact Puzzles Kristian Adam Chippy Artifact Puzzles Gordon Barker Summer Beach,,,361.0,,,,1.0,2.0,
+33,Artifact Puzzles Kristian Adams Snoozies Artifact Puzzles Jonathas Araujo Toucans,Artifact,,413.0,386.0,Average,Average,2.0,2.0,2.0
+34,Artifact Puzzles Liv Wan Australia Map Artifact Puzzles Iwona Lifsches Riders On The Storm,Artifact,,418.0,523.0,A-Easy,A-Easy,2.0,1.0,1.0
+35,Artifact Puzzles Louis Wain Cattown Races Artifact Puzzles Gerhard Munthe The Princess And The Knight,Artifact,,75.0,80.0,A-Easy,A-Easy,2.0,1.0,1.0
+36,Artifact Puzzles Marie Amalia Pride Of Peacocks Artifact Puzzles DALL-E Animals In Motion,Artifact,,224.0,225.0,Average,Average,2.0,2.0,2.0
+37,Artifact Puzzles Monet Chrysanthemums Artifact Puzzles Nadieh Bremer Color Dream,Artifact,,262.0,403.0,Hard,Average,2.0,3.0,2.0
+38,Artifact Puzzles Nadieh Bremer Coronium Artifact Puzzles Nadieh Bremer Nebulium ,,,361.0,,,,1.0,2.0,
+39,Artifact Puzzles Nadiezda Night Ship Artifact Puzzles Kevin Sloan Consequences of Hypnosis,Artifact,,283.0,282.0,A-Easy,A-Easy,2.0,1.0,1.0
+40,Artifact Puzzles Paul Bond The Giver Artifact Puzzles Miskin Dilaram Harp,Artifact,,461.0,468.0,Hard,Hard,2.0,3.0,3.0
+41,Artifact Puzzles Piero Di Cosimo Liberazione Di Andromeda Artifact Puzzles Joe Vaux Season Of The Rabbit,Artifact,,411.0,300.0,Hard,A-Easy,2.0,3.0,1.0
+42,Artifact Puzzles Randal Spangler Technology Meltdown Artifact Puzzles Little Seamaid,Artifact,,167.0,74.0,A-Easy,A-Easy,2.0,1.0,1.0
+43,Artifact Puzzles Richard Friend Live Work Hope Artifact Puzzles Kristian Adam Mr. Pinks Place,Artifact,,177.0,203.0,A-Easy,A-Easy,2.0,1.0,1.0
+44,Artifact Puzzles Roch Urbaniak Atlantyda Artifact Puzzles Edvard Munch Dance On The Beach,Artifact,,299.0,300.0,Average,A-Easy,2.0,2.0,1.0
+45,Artifact Puzzles Roch Urbaniak Floating Town Artifact Puzzles Kozyndan Forest Dream ,Artifact,,228.0,216.0,A-Easy,A-Easy,2.0,1.0,1.0
+46,Artifact Puzzles Sandi Rigby Botanical Dreaming ,Artifact,,1273.0,,Hard,,1.0,3.0,
+47,Artifact Puzzles Tomasz Pietrzyk The Town Artifact Puzzles Qiu Ying Han Palace,Artifact,,390.0,423.0,A-Easy,Hard,2.0,1.0,3.0
+48,Artifact Puzzles Tomasz Pietrzyk Whole City Aquatic Moving Company Artifact Puzzles Iwona Lifsches Jazzy Night,Artifact,,518.0,405.0,Average,Hard,2.0,2.0,3.0
+49,Artifact Puzzles Tomasz Pietrzyk Whole City Aquatic Moving Company Artifact Puzzles Kahlil Rintye Cosmic Dragon,Artifact,,518.0,504.0,Average,Hard,2.0,2.0,3.0
+50,Artifact Puzzles Tyukanov Purgatory Artifact Puzzles Rylov Sunset,Artifact,,659.0,80.0,Hard,Hard,2.0,3.0,3.0
+51,Artifact Puzzles Van Gogh Bedroom In Arles Artifact Puzzles Bruegel Triumph of Death,Artifact,,347.0,361.0,Average,Average,2.0,2.0,2.0
+52,Artifact Puzzles Van Gogh Pont De Trinquetaille Artifact Puzzles Vermeer Art Of Painting,Artifact,,327.0,323.0,Average,Average,2.0,2.0,2.0
+53,Artifact Puzzles Vikram Madan North Star Artifact Puzzles Barnard Dragon Mountain,Artifact,,480.0,277.0,Average,Average,2.0,2.0,2.0
+54,Artifact Puzzles Vikram Madan Robot Creation Myth Artifact Puzzles Vikram Madan Physical Impossibility,Artifact,,382.0,292.0,Average,A-Easy,2.0,2.0,1.0
+55,Artifact Puzzles Vikram Madan Stop And Smell The Daisies Ecru Puzzles Ryoko Meditating Skeleton,Artifact,Ecru,171.0,81.0,Average,Average,2.0,2.0,2.0
+56,BCB Puzzles Miko The Jazz Frog Choir Artifact Puzzles Iwona Lifsches Poohsticks,Artifact,Other-Hand-cut,276.0,261.0,A-Easy,A-Easy,2.0,1.0,1.0
+57,BCB Puzzles Teapot and Teacups Snowflake Puzzles Koganeibashi no sekishō,Other-Hand-cut,,120.0,511.0,Average,A-Easy,2.0,2.0,1.0
+58,BellArt Ice Cream Sundae Turtle Teasers Sarah Pickett Red River,,,58.0,169.0,Average,Average,2.0,2.0,2.0
+59,BellArt Puzzles Double-sided Angel Maze Fish East Texas Piney Woods Puzzles Homer Rushing Spirit Bird,,,361.0,,,,1.0,2.0,
+60,Bewilderness Puzzles Caleb Fleisher Unseen. Unheard. Bewilderness Puzzles DeptiAgrawalMittal Celebrations Art,,,361.0,,,,1.0,2.0,
+61,Bewilderness Puzzles Desert Candles Bewilderness Puzzles Whole Lotta Dice,,,361.0,,,,1.0,2.0,
+62,Bewilderness Puzzles Gas Works Bewilderness Puzzles Mystic Mountain,,,361.0,,,,1.0,2.0,
+63,Bewilderness Puzzles Rainbow Eucalyptus Bewilderness Puzzles Gaj Vakra,Other-Laser-cut,,173.0,173.0,Average,Average,2.0,2.0,2.0
+64,Boardwalk Puzzles Alexey Erofalov Amsterdam Boardwalk Puzzles Alexey Erofalov Australia,Other-Laser-cut,,311.0,318.0,Average,Average,2.0,2.0,2.0
+65,Boardwalk Puzzles Alexey Erofalov California Boardwalk Puzzles Lake Como Italy,Other-Laser-cut,,327.0,325.0,A-Easy,A-Easy,2.0,1.0,1.0
+66,Boardwalk Puzzles Alexey Erofalov San Juan Puerto Rico Boardwalk Puzzles Alexey Erofalov Germany ,,,361.0,,,,1.0,2.0,
+67,Boardwalk Puzzles Ryan Snarr French Hot Air Balloon Boardwalk Puzzles Ryan Snarr Bavarian Hot Air Balloon,,,361.0,,,,1.0,2.0,
+68,Boardwalk Puzzles Tim Zeltner Journey East Boardwalk Puzzles Herb Schwartz New Animal Butterfly,Other-Laser-cut,,330.0,460.0,Average,Average,2.0,2.0,2.0
+69,Chestnut And Hemlock Puzzles Mary Halym Two Apples On A Branch 3 Cat Max Puzzles,,,107.0,30.0,Average,Average,2.0,2.0,2.0
+70,Chestnut and Hemlock Helen Hyde Feeding The Bunnies Chestnut and Hemlock Joris Hoefnagel Heart,,,175.0,175.0,Average,Average,2.0,2.0,2.0
+71,Chris Yates Remote Archipelago BCB Puzzles The Hat Shop,Other-Hand-cut,,61.0,150.0,Average,A-Easy,2.0,2.0,1.0
+72,Culmo.Co Happy Panda Culmo.Co Terrible T-Rex,Other-Laser-cut,,671.0,205.0,Average,Average,2.0,2.0,2.0
+73,Culmo.Co Puzzles Rainbow Dragon Lol Puzzles Mysterious Owl,Other-Laser-cut,,317.0,151.0,Average,Average,2.0,2.0,2.0
+74,DaVici Good Morning DaVici The Life of Birds,DaVici,,170.0,145.0,A-Easy,A-Easy,2.0,1.0,1.0
+75,DaVici In the Pantry DaVici Yana Fefelova Christmas Angel,DaVici,,130.0,250.0,A-Easy,Average,2.0,1.0,2.0
+76,DaVici Puzzles Akhmatova Return DaVici Puzzles Fairy Tea Party,DaVici,,160.0,350.0,A-Easy,A-Easy,2.0,1.0,1.0
+77,DaVici Puzzles Awakening DaVici Puzzles ,DaVici,,450.0,280.0,Average,Average,2.0,2.0,2.0
+78,DaVici Puzzles Bathing Of The Colorful Dragon DaVici Puzzles Behind The Scenes (Aka Offstage),DaVici,,125.0,190.0,Average,Average,2.0,2.0,2.0
+79,DaVici Puzzles Cow Ruga Puzzles Egyptian Cat,DaVici,,121.0,200.0,Average,Average,2.0,2.0,2.0
+80,DaVici Puzzles Delicious Snow DaVici Puzzles Doll House,DaVici,,150.0,240.0,A-Easy,A-Easy,2.0,1.0,1.0
+81,DaVici Puzzles Full Moon Feast DaVici Puzzles World&#39;s Greatest Miracle,DaVici,,195.0,220.0,Hard,Hard,2.0,3.0,3.0
+82,DaVici Puzzles Great Art of Light and Shadow DaVici Dreamlike Prince,DaVici,,160.0,180.0,Average,A-Easy,2.0,2.0,1.0
+83,DaVici Puzzles Heavenly Postman DaVici Puzzles A.P. Chehov,DaVici,,230.0,200.0,Average,Average,2.0,2.0,2.0
+84,DaVici Puzzles Ivan Tsarevich and The Grey Wolf DaVici Puzzles Masha Molodykh Offstage,DaVici,,180.0,190.0,Average,Average,2.0,2.0,2.0
+85,DaVici Puzzles Jugglers DaVici Puzzles Pushkins Fairy Tales,DaVici,,210.0,300.0,Average,Average,2.0,2.0,2.0
+86,DaVici Puzzles Meal Time DaVici Puzzles Attraction,DaVici,,400.0,240.0,A-Easy,Average,2.0,1.0,2.0
+87,DaVici Puzzles Red Shrimp DaVici Puzzles Inhabited Fish,DaVici,,165.0,130.0,A-Easy,A-Easy,2.0,1.0,1.0
+88,DaVici Puzzles Sergey Adeev Flying Frigate DaVici Puzzles The Life Of Birds,DaVici,,130.0,145.0,Average,Average,2.0,2.0,2.0
+89,DaVici Puzzles Stephen Hawking DaVici Puzzles A Flower in the Soul,DaVici,,250.0,220.0,Average,Average,2.0,2.0,2.0
+90,DaVici Puzzles Under the Red Umbrella ,DaVici,,600.0,,Hard,,1.0,3.0,
+91,DaVici Puzzles Vladimir Zhdanov Lilac House DaVici Puzzles Sergey Adeev Day and Night,DaVici,,160.0,280.0,A-Easy,A-Easy,2.0,1.0,1.0
+92,DaVici Red Book ,DaVici,,700.0,,Hard,,1.0,3.0,
+93,DaVici Tree of Dreams DaVici Bathing of the Colorful Dragon,DaVici,,193.0,125.0,A-Easy,A-Easy,2.0,1.0,1.0
+94,DaVici Tribute to Rembrandt DaVici Friendship Day,DaVici,,270.0,180.0,A-Easy,A-Easy,2.0,1.0,1.0
+95,Davici Puzzles Claude Monet Woman in the Garden ,DaVici,,552.0,,A-Easy,,1.0,1.0,
+96,Davici Puzzles Dear Lady Winter Davici Puzzles Russian Circus,DaVici,,180.0,330.0,A-Easy,A-Easy,2.0,1.0,1.0
+97,Davici Puzzles Mirage Davici Puzzles Golden Sun,DaVici,,250.0,240.0,A-Easy,A-Easy,2.0,1.0,1.0
+98,Davici Puzzles Noahs Ark Davici Puzzles Wisteria Moon,DaVici,,210.0,250.0,A-Easy,A-Easy,2.0,1.0,1.0
+99,Davici Puzzles Photo Album Ecru Puzzles Sunny November ,DaVici,Ecru,600.0,369.0,Average,Average,2.0,2.0,2.0
+100,Davici Puzzles Seasons ,DaVici,,500.0,,Average,,1.0,2.0,
+101,"Davici Puzzles The Sailor Cat Davici Puzzles Elementary, My Dear Watson!",DaVici,,135.0,150.0,A-Easy,A-Easy,2.0,1.0,1.0
+102,Davici Puzzles Watchmaker ,DaVici,,400.0,,Average,,1.0,2.0,
+103,Davici Puzzles When a Star was Born Davici Puzzles Last Summer Day,DaVici,,130.0,190.0,A-Easy,Average,2.0,1.0,2.0
+104,Davici Puzzles Zodiac Capricorn Davici Puzzles Zodiac Pisces,DaVici,,100.0,100.0,Average,Average,2.0,2.0,2.0
+105,David Mullett Puzzles Isle Of Skye Press Puzzles Indiana By County,,,361.0,,,,1.0,2.0,
+106,Dowdle Nativity Dowdle Oregon State Beavers,Other-Laser-cut,,280.0,300.0,Average,Average,2.0,2.0,2.0
+107,Dowdle Puzzles New Orleans Dowdle Puzzles Nativity,Other-Laser-cut,,280.0,280.0,Hard,A-Easy,2.0,3.0,1.0
+108,Dreamton Puzzles Christmas Shop Dreamton Puzzles Christmas Town,,,361.0,,,,1.0,2.0,
+109,Dreamton Puzzles Underwater Pirate Treasure in Ocean Dreamton Puzzles Harvest Pumpkins,,,361.0,,,,1.0,2.0,
+110,Ecru Mystery Puzzle #9 Artifact Puzzles Eric Joyner Gangenstein,Artifact,Ecru,223.0,159.0,A-Easy,A-Easy,2.0,1.0,1.0
+111,Ecru Puzzles Aaron Wolf Siege Of Cranes Ecru Puzzles Aaron Wolf Lost Civilization,Ecru,,437.0,447.0,Hard,Hard,2.0,3.0,3.0
+112,Ecru Puzzles Aaron Wolf Twilight Treehouse of the Phosphorescent Forest Artifact Puzzles Methane Studios Dragon Moon,Artifact,Ecru,426.0,258.0,Hard,Hard,2.0,3.0,3.0
+113,Ecru Puzzles Franz Marc Cat  Artifact Puzzles Franz Marc 1912 Blue Horse,,,361.0,,,,1.0,2.0,
+114,Ecru Puzzles Nueve ,,,361.0,,,,1.0,2.0,
+115,Ecru Puzzles Piet Mondrian Oostzijdse Mill Artifact Puzzles Kessel Butterflies,Artifact,Ecru,181.0,161.0,A-Easy,A-Easy,2.0,1.0,1.0
+116,Ecru Puzzles Ragamala Mughal Miniature Artifact Puzzles Piet Mondrian,Artifact,Ecru,80.0,153.0,A-Easy,Average,2.0,1.0,2.0
+117,Ecru Puzzles Ton Dubbeldam Grand Italia Artifact Puzzles Michelle Morin Hummingbirds,Artifact,Ecru,270.0,287.0,A-Easy,Really-Hard,2.0,1.0,4.0
+118,Elms Puzzles The Blue Gate Artifact Puzzles Kozyndan Forest Dream,Artifact,,640.0,216.0,Average,Average,2.0,2.0,2.0
+119,Fools Gold Baffling Butterflies Joyful Nook Gallery Puzzles Thankful,,,100.0,153.0,Average,Average,2.0,2.0,2.0
+120,Fox Smart Box Gustav Klimt Kiss Fox Smart Box Butterflies Challenge,,,311.0,216.0,Average,Average,2.0,2.0,2.0
+121,FoxSmartBox Fairy Forest Summer FoxSmartBox Fairy Forest Winter,,,505.0,434.0,Average,Average,2.0,2.0,2.0
+122,FoxSmartBox Tree Of Angels FoxSmartBox Visiting The Bear,,,400.0,400.0,Average,Average,2.0,2.0,2.0
+123,Hellofish Piet Mondrian Hellofish Azulejo Tiles,Other-Laser-cut,,300.0,300.0,Really-Hard,Average,2.0,4.0,2.0
+124,Hope Puzzles Van Gogh  Padma Puzzles Dreamy Cat,,,361.0,,,,1.0,2.0,
+125,II Ravens Puzzles Claude Monet Bridge At Argenteuil Zen Puzzles Sea Glass,Other-Laser-cut,,121.0,125.0,Average,Average,2.0,2.0,2.0
+126,Inside Adventure Helen Dryden The Southern Sun Zen Puzzles Chickadee,Other-Laser-cut,,571.0,100.0,Average,Average,2.0,2.0,2.0
+127,Inside Adventure Odilon Redon Butterflies Peaceful Puzzles Green Heron ,Other-Laser-cut,,604.0,260.0,Average,Average,2.0,2.0,2.0
+128,Joyful Nook Gallery Christmas Cheer Joyful Nook Gallery The Christmas Crew,,,236.0,201.0,Average,Average,2.0,2.0,2.0
+129,Joyful Nook Puzzles Bettina Mills Coming Home ,,,700.0,,Average,,1.0,2.0,
+130,Kata Kissoczy Puzzles Hands Shayz Puzzles Double Bouquet,,,80.0,59.0,Really-Hard,Average,2.0,4.0,2.0
+131,Liberty Puzzle Dr. Seuss Plethora of Cats Liberty Puzzles Linnea Pergola Metropolitain,Liberty,,545.0,616.0,Hard,A-Easy,2.0,3.0,1.0
+132,Liberty Puzzle Jo Mora Cowboys of North America ,Liberty,,729.0,,Average,,1.0,2.0,
+133,Liberty Puzzle Konstatin Gorbatov A Winters Day Ecru Puzzles Kawase Hasui Nocturne,Ecru,Liberty,527.0,145.0,Hard,Average,2.0,3.0,2.0
+134,Liberty Puzzle Valentine Swans Ecru Puzzles Milton Brightman Flowering Cherry,,,361.0,,,,1.0,2.0,
+135,Liberty Puzzles A Tasty Treat Wentworth Puzzles Claude Monet Le Pont Japonais,,,361.0,,,,1.0,2.0,
+136,Liberty Puzzles Agra Liberty Puzzles Ditz Patchwork-Birds,Liberty,,608.0,562.0,Average,Average,2.0,2.0,2.0
+137,Liberty Puzzles Alan Paterson Historical Map of New Zealand ,Liberty,,677.0,,Hard,,1.0,3.0,
+138,Liberty Puzzles Alex Beard Butterflies Ecru Puzzles Mystery Puzzle #20,,,361.0,,,,1.0,2.0,
+139,Liberty Puzzles Alex Beard On the Ngare Ndare River Liberty Puzzles West Entry Colonnade and General View of Angkor Wat,,,361.0,,,,1.0,2.0,
+140,Liberty Puzzles Alex Beard The Louisiana Tree of Life Liberty Puzzles Canaletto The Thames and the City,Liberty,,555.0,609.0,Average,Average,2.0,2.0,2.0
+141,Liberty Puzzles Alphonse Mucha Cycles Perfecta Liberty Puzzles Shamsa (Sunburst),Liberty,,400.0,484.0,Average,Hard,2.0,2.0,3.0
+142,Liberty Puzzles Alphonse Mucha La Danse Liberty Puzzles The Ladies Home Journal All-Story Number,Liberty,,250.0,258.0,Average,Hard,2.0,2.0,3.0
+143,Liberty Puzzles Ando Hiroshige Precincts of the Tenjin Shrine at Kameido Liberty Puzzles Ito Jakuchu Peonies and Small Birds,Liberty,,500.0,471.0,Average,Hard,2.0,2.0,3.0
+144,Liberty Puzzles Atkinson On The River Greta ,Liberty,,609.0,,Hard,,1.0,3.0,
+145,Liberty Puzzles Audubon Carolina Parakeets Artifact Puzzles Jethro Buck Fishies,,,361.0,,,,1.0,2.0,
+146,Liberty Puzzles Batteries Not Included Wentworth Puzzles Flight Of Fancy,,,361.0,,,,1.0,2.0,
+147,Liberty Puzzles Beautiful Fishes Of The Deep ,Liberty,,605.0,,Average,,1.0,2.0,
+148,Liberty Puzzles Beetles Ecru Puzzles Nicole Gustafson The Bookkeeper,Ecru,Liberty,246.0,372.0,A-Easy,Average,2.0,1.0,2.0
+149,Liberty Puzzles Beryl and Graham Peters Holiday Crackers ,Liberty,,603.0,,A-Easy,,1.0,1.0,
+150,Liberty Puzzles Birds of the Tropics ,Liberty,,745.0,,Average,,1.0,2.0,
+151,"Liberty Puzzles Birgitte Hendril Woodpecker, Owl and Thrush Liberty Puzzles John Audubon American Avocet",,,361.0,,,,1.0,2.0,
+152,"Liberty Puzzles Boris Kustodiyev Winter Carnival Fair, 1919 Liberty Puzzles Ando Hiroshige Atagoshita and Yabu Lane",Liberty,,571.0,564.0,Hard,Hard,2.0,3.0,3.0
+153,Liberty Puzzles Botticelli Birth of Venus Ecru Puzzles Ochiai Rofu Kyoto Four Scenes,,,361.0,,,,1.0,2.0,
+154,Liberty Puzzles Botticelli Primavera Ecru Puzzles Amedeo Modigliani Red Scarf Wooden Jigsaw Puzzle,Ecru,Liberty,512.0,100.0,Average,A-Easy,2.0,2.0,1.0
+155,"Liberty Puzzles Brad Gorman Denver Cityscape Liberty Puzzles Herbert Hofer Rome, Italy",Liberty,,469.0,478.0,A-Easy,A-Easy,2.0,1.0,1.0
+156,Liberty Puzzles Brad Gorman Vines Amongst the Rockies Ecru Puzzles Ross Dickinson Valley Farms,,,361.0,,,,1.0,2.0,
+157,"Liberty Puzzles Bryce Canyon National Park Liberty Puzzles Ivar Gull Wisby the City of Ruins and Roses, Sweden",,,361.0,,,,1.0,2.0,
+158,Liberty Puzzles Celebration Ecru Puzzles Awa Tsireh Animal Designs,Ecru,Liberty,408.0,105.0,Average,A-Easy,2.0,2.0,1.0
+159,Liberty Puzzles Childe Hassam Geraniums Ecru Puzzles Aaron Wolf Siege of Cranes,,,361.0,,,,1.0,2.0,
+160,Liberty Puzzles Claude Monet Poppies Near Vetheuil Liberty Puzzles Claude Monet Landscape: The Parc Monceau,Liberty,,433.0,507.0,Average,Average,2.0,2.0,2.0
+161,Liberty Puzzles Claude Monet Sunrise ,Liberty,,517.0,,Hard,,1.0,3.0,
+162,Liberty Puzzles Claude Monet The Artists Garden at Vetheuil Liberty Puzzles Francis Farmar August In Weymouth,,,361.0,,,,1.0,2.0,
+163,Liberty Puzzles Claude Monet The Parc Monceau ,Liberty,,507.0,,Average,,1.0,2.0,
+164,Liberty Puzzles Colorado United Airlines Ecru Puzzles Jethro Buck Forest,Ecru,Liberty,534.0,285.0,Average,Average,2.0,2.0,2.0
+165,"Liberty Puzzles Cranes, Cycads and Wisteria Liberty Puzzles Ando Hiroshige Fudo Falls, Oji",Liberty,,486.0,599.0,Hard,Average,2.0,3.0,2.0
+166,Liberty Puzzles Cupid Garden Party Liberty Puzzles Phil Lewis Magpie,Liberty,,236.0,155.0,Average,Average,2.0,2.0,2.0
+167,Liberty Puzzles Damian Elwes Matisses Studio Ecru Puzzles Erin Hanson Layers Of Afternoon,Ecru,Liberty,483.0,287.0,Hard,Hard,2.0,3.0,3.0
+168,Liberty Puzzles Daria Hlazatova Leopard Liberty Puzzles The Ladies Home Journal All-Story Number,,,361.0,,,,1.0,2.0,
+169,Liberty Puzzles David Newton Sunset: Pool of London Liberty Puzzles Damian Elwes Picassos Studio,Liberty,,507.0,527.0,Average,Average,2.0,2.0,2.0
+170,Liberty Puzzles Ditz Patchwork-Birds Liberty Puzzles A Resounding Success,Liberty,,562.0,513.0,A-Easy,Average,2.0,1.0,2.0
+171,Liberty Puzzles Donna Schuster In The Garden Liberty Puzzles Centenario,Liberty,,378.0,477.0,Average,Hard,2.0,2.0,3.0
+172,Liberty Puzzles Dr. Seuss Every Girl Should Have A Unicorn Ecru Puzzles Grant Haffner Sunset on Old Montauk Highway,Ecru,Liberty,539.0,282.0,Average,Average,2.0,2.0,2.0
+173,Liberty Puzzles Dr. Seuss Green Cat with Lights Ecru Puzzles Mystery Puzzle #14,Ecru,Liberty,584.0,398.0,Average,Average,2.0,2.0,2.0
+174,Liberty Puzzles Dr. Seuss I Dreamed I Was a Doorman at the Hotel Del Coronado Liberty Puzzles Butterfly Golden Pumpkin,Liberty,,654.0,309.0,Hard,A-Easy,2.0,3.0,1.0
+175,Liberty Puzzles Dr. Seuss Incidental Music for a New Year&#39;s Eve Party Ecru Puzzles Kristian Adam Pizza Boyz,Ecru,Liberty,616.0,387.0,Average,Average,2.0,2.0,2.0
+176,Liberty Puzzles Dr. Seuss Joseph Katz and His Coat of Many Colors Liberty Puzzles Harrison Weir The Dogs Dinner Party,Liberty,,418.0,447.0,Average,Average,2.0,2.0,2.0
+177,Liberty Puzzles Dr. Seuss Tahitian Landscape Ecru Puzzles Angie Rees Moolin Rouge,,,361.0,,,,1.0,2.0,
+178,Liberty Puzzles Dr. Seuss Worm Burning Bright in the Forest in the Night Ecru Puzzles Henri Edmond Cross La Plage De Saint-Claire,,,361.0,,,,1.0,2.0,
+179,Liberty Puzzles Duke Beardsley Close Range ,Liberty,,613.0,,Average,,1.0,2.0,
+180,Liberty Puzzles Elena Khmeleva Christmas Tree ,Liberty,,755.0,,Hard,,1.0,3.0,
+181,Liberty Puzzles Erin Huybrechts Davis Woodland Wheel Liberty Puzzles Karen Williams-Brusubardis Yanapuma,Liberty,,501.0,501.0,Average,Really-Hard,2.0,2.0,4.0
+182,Liberty Puzzles Francis Farmar August In Weymouth Liberty Puzzles Alex Beard The Louisiana Tree Of Life,Liberty,,495.0,555.0,Average,Average,2.0,2.0,2.0
+183,Liberty Puzzles Frank Cowper Vanity Ecru Puzzles Scott Gustafson Belling The Cat,Ecru,Liberty,473.0,364.0,Average,Hard,2.0,2.0,3.0
+184,Liberty Puzzles Frenchy All On A Mardi Gras Day Liberty Puzzles Daria Hlazatova Leopard,Liberty,,527.0,491.0,Hard,Hard,2.0,3.0,3.0
+185,Liberty Puzzles Grindelwald Winter Sport Ecru Puzzles Jim Flora Gunfight on the Roof,,,361.0,,,,1.0,2.0,
+186,Liberty Puzzles Gustav Klimt Pear Tree Ecru Puzzles Rachell Sumpter Brothers In Sport,Ecru,Liberty,469.0,179.0,Really-Hard,A-Easy,2.0,4.0,1.0
+187,"Liberty Puzzles Gustave Caillebotte Cliffs by the Sea at Trouville Liberty Puzzles Winslow Homer A Good Pool, Saguenay River",Liberty,,523.0,360.0,Average,Average,2.0,2.0,2.0
+188,Liberty Puzzles Herbert Hofer Rome Italy Liberty Puzzles August In Weymouth,Liberty,,478.0,495.0,A-Easy,Average,2.0,1.0,2.0
+189,"Liberty Puzzles Herbert Hofer Rome, Italy Ecru Puzzles Jean Metzinger Peacock",,,361.0,,,,1.0,2.0,
+190,Liberty Puzzles Hokusai Falcon and Cherry Tree Liberty Puzzles Sue Coccia Wolf,Liberty,,250.0,420.0,Average,Average,2.0,2.0,2.0
+191,"Liberty Puzzles Hokusai Fine Wind, Clear Morning Liberty Puzzles Egon Schiele View of Krumau",Liberty,,252.0,508.0,Average,Average,2.0,2.0,2.0
+192,Liberty Puzzles Hokusai The Great Wave at Kanagawa Ecru Puzzles Kawase Hasui Shiba Benten Pond,,,361.0,,,,1.0,2.0,
+193,Liberty Puzzles Holiday Wreath Liberty Puzzles Beryl Peters Designs Yuletide Memories,Liberty,,289.0,690.0,Hard,Hard,2.0,3.0,3.0
+194,Liberty Puzzles Isaac Grunewald The Blue Pergola Liberty Puzzles Claude Monet The Artists Garden at Vetheuil,Liberty,,481.0,480.0,Average,Hard,2.0,2.0,3.0
+195,Liberty Puzzles Isaac Grunewald The Blue Pergola Liberty Puzzles Dr. Seuss Every Girl Should Have a Unicorn,Liberty,,481.0,539.0,Average,Average,2.0,2.0,2.0
+196,Liberty Puzzles James Sommerville Ocean Life ,Liberty,,769.0,,Hard,,1.0,3.0,
+197,Liberty Puzzles Jan Barwick Dolphin&#39;s Wake Liberty Puzzles Rex Ray Arabesque,,,361.0,,,,1.0,2.0,
+198,Liberty Puzzles Jan Davidson Carmel by the Sea ,Liberty,,664.0,,Hard,,1.0,3.0,
+199,Liberty Puzzles Jan Davidson L.A. By Night Liberty Puzzles Gisbert Combaz La Libre Esthetique,Liberty,,588.0,528.0,Hard,Average,2.0,3.0,2.0
+200,Liberty Puzzles Jan Davidson San Francisco ,Liberty,,670.0,,Average,,1.0,2.0,
+201,Liberty Puzzles Jane Tattersfield Birds Liberty Puzzles Castle Neuschwanstein,Liberty,,509.0,641.0,Average,Average,2.0,2.0,2.0
+202,Liberty Puzzles Jane Tattersfield More Blooms In a Basket Liberty Puzzles David Newton Winterlands,Liberty,,496.0,524.0,Average,Hard,2.0,2.0,3.0
+203,Liberty Puzzles Jane Tattersfield Peacock And Pattern Peaceful Puzzles August Macke Landscape at the Tegersee ,Liberty,Other-Laser-cut,508.0,400.0,Average,Average,2.0,2.0,2.0
+204,Liberty Puzzles Jane Tattersfield Peacock and Pattern Liberty Puzzles Anthony Todd The Wine Tour,Liberty,,508.0,495.0,Average,Average,2.0,2.0,2.0
+205,Liberty Puzzles Janice Larson Orchids in the East Window Liberty Puzzles Linnea Pergola Nantucket,Liberty,,548.0,468.0,Average,A-Easy,2.0,2.0,1.0
+206,Liberty Puzzles Janice Larson Spring Garden Liberty Puzzles Linnea Pergola Left Bank Afternoon,Liberty,,466.0,572.0,Average,A-Easy,2.0,2.0,1.0
+207,Liberty Puzzles Janice Larson Star Gazing Liberty Puzzles Lisa Graa Jensen Cosy Cat,,,361.0,,,,1.0,2.0,
+208,"Liberty Puzzles Jasper Cropsey Starrucca Viaduct, Pennsylvania Ecru Puzzles Richard Friend A Favorite Place",Ecru,Liberty,530.0,141.0,Average,Average,2.0,2.0,2.0
+209,Liberty Puzzles Jean Jans The Younger The Battle Of Granicus ,Liberty,,602.0,,Hard,,1.0,3.0,
+210,Liberty Puzzles Jean-Leon Gerome Carpet Merchant ,Liberty,,658.0,,Average,,1.0,2.0,
+211,Liberty Puzzles Jeanne Maze Woodland Scene Liberty Puzzles Victorian Christmas Tree,Liberty,,541.0,607.0,Average,Average,2.0,2.0,2.0
+212,Liberty Puzzles Jo Mora Indians of North America ,Liberty,,762.0,,Hard,,1.0,3.0,
+213,Liberty Puzzles John Audubon Carolina Parakeet Ecru Puzzles Erin Hanson Cypress Lights,Ecru,Liberty,332.0,398.0,Average,Average,2.0,2.0,2.0
+214,Liberty Puzzles John Trumbull Declaration of Independence Liberty Puzzles Liberty Eagle,Liberty,,608.0,308.0,Average,Average,2.0,2.0,2.0
+215,Liberty Puzzles Karen Williams-Brusubardis Yanapuma Liberty Puzzles Alice Schille Water Lilies,Liberty,,501.0,544.0,Hard,Average,2.0,3.0,2.0
+216,Liberty Puzzles Karen Williams-Brusubardis Yanapuma Liberty Puzzles Ditz Patchwork-Birds,,,361.0,,,,1.0,2.0,
+217,Liberty Puzzles Kay Nielsen The Story of King Schahriyar and His Brother Schahzenan Ecru Puzzles Odilon Redon Pandora,,,361.0,,,,1.0,2.0,
+218,Liberty Puzzles Ladies Home Journal Large Piece FoxSmartBox Visiting the Bear,,,361.0,,,,1.0,2.0,
+219,Liberty Puzzles Limoneira Santa Liberty Puzzles Christmas Robins,Liberty,,257.0,270.0,Average,Average,2.0,2.0,2.0
+220,Liberty Puzzles Linda Israel Buffalo Strength Liberty Puzzles Sarah Gentry Mels Belles,Liberty,,486.0,546.0,Average,Average,2.0,2.0,2.0
+221,Liberty Puzzles Linnea Pergola Hills of San Francisco Liberty Puzzles Alex Beard The Painting of Life,Liberty,,577.0,536.0,Average,Hard,2.0,2.0,3.0
+222,Liberty Puzzles Linnea Pergola Left Bank Afternoon Liberty Puzzles David Newton Blue Forest,Liberty,,572.0,501.0,A-Easy,Average,2.0,1.0,2.0
+223,Liberty Puzzles Linnea Pergola Light Snowfall in New York ,Liberty,,702.0,,Average,,1.0,2.0,
+224,Liberty Puzzles Linnea Pergola Lugano Liberty Puzzles Erin Huybrechts Davis Woodland Wheel,Liberty,,582.0,501.0,Average,Average,2.0,2.0,2.0
+225,Liberty Puzzles Linnea Pergola Maui ,Liberty,,703.0,,Hard,,1.0,3.0,
+226,Liberty Puzzles Linnea Pergola Metropolitain Liberty Puzzles Rebecca Campbell The Good Life is On the Way,,,361.0,,,,1.0,2.0,
+227,Liberty Puzzles Linnea Pergola San Miguel de Allende Ecru Puzzles Maurice Denis Pittsburgh Sunset,Ecru,Liberty,527.0,290.0,Hard,Hard,2.0,3.0,3.0
+228,Liberty Puzzles Linnea Pergola The Girl and the Sea Liberty Puzzles Phil Lewis Flatirons,Liberty,,489.0,433.0,Hard,Hard,2.0,3.0,3.0
+229,Liberty Puzzles Lisa Graa Jensen Jenny&#39;s Garden Liberty Puzzles Jeanne Maze Woodland Scene,Liberty,,468.0,541.0,A-Easy,A-Easy,2.0,1.0,1.0
+230,Liberty Puzzles Lisa Graa Jensen Jennys Garden Liberty Puzzles Sarah Gentry Abundance,Liberty,,468.0,569.0,Average,Average,2.0,2.0,2.0
+231,Liberty Puzzles Lisa Graa Jensen Starry River Ecru Puzzles Nicole Gustafsson Mosslands,Ecru,Liberty,480.0,282.0,Hard,A-Easy,2.0,3.0,1.0
+232,Liberty Puzzles Lynon Aksamit Chasing Butterflies 66 Mya,Liberty,,657.0,,Hard,,1.0,3.0,
+233,Liberty Puzzles Lynon Aksamit Holi Raja Liberty Puzzles Francis Farmar Piccadilly Circus,Liberty,,577.0,564.0,Average,Average,2.0,2.0,2.0
+234,Liberty Puzzles Lynon Aksamit Octopus ,Liberty,,495.0,,Really-Hard,,1.0,4.0,
+235,Liberty Puzzles Marc Chagall I and the Village Liberty Puzzles Jan Brueghel and Peter Paul Rubens Sight,Liberty,,465.0,533.0,Average,Hard,2.0,2.0,3.0
+236,Liberty Puzzles Mary Cassatt Children Playing on the Beach Ecru Puzzles Winslow Homer Watching The Tide,,,361.0,,,,1.0,2.0,
+237,Liberty Puzzles Matson Lines Hawaii Liberty Puzzles Hector Giacomelli Perch Of Birds,Liberty,,567.0,326.0,Average,Average,2.0,2.0,2.0
+238,Liberty Puzzles Maurice Prendergast The Grand Canal Ecru Puzzles Aaron Wolf The Kingdom,Ecru,Liberty,498.0,214.0,Hard,Average,2.0,3.0,2.0
+239,Liberty Puzzles Maxfield Parrish The Dream Garden Liberty Puzzles David Newton Winterlands,Liberty,,553.0,524.0,Average,Average,2.0,2.0,2.0
+240,Liberty Puzzles Michelangelo Last Judgement ,Liberty,,717.0,,Really-Hard,,1.0,4.0,
+241,Liberty Puzzles Morses Santa Claus Liberty Puzzles New Years Toboggan,Liberty,,327.0,321.0,Hard,A-Easy,2.0,3.0,1.0
+242,Liberty Puzzles Mount Haruna Under Snow Liberty Puzzles Harpers Christmas,,,361.0,,,,1.0,2.0,
+243,Liberty Puzzles Muktair Oladoja Lovers Ecru Puzzles Mystery Puzzle #23,Ecru,Liberty,504.0,242.0,Average,Average,2.0,2.0,2.0
+244,Liberty Puzzles Norman Rockwell Christmas: Santa with Elves Liberty Puzzles Lisa Graa Jensen First Sprinkling,,,361.0,,,,1.0,2.0,
+245,Liberty Puzzles Oregon Trail ,Liberty,,785.0,,Average,,1.0,2.0,
+246,Liberty Puzzles P.J. Crook Sea Dog Ecru Puzzles Mystery Puzzle #15,Ecru,Liberty,514.0,357.0,Average,Average,2.0,2.0,2.0
+247,Liberty Puzzles Palisades of the Hudson Liberty Puzzles Odile Kidd Underwater World II,,,361.0,,,,1.0,2.0,
+248,Liberty Puzzles Paris Air France Ecru Puzzles Robert Delaunay Eiffel Tower,Ecru,,483.0,,Hard,,1.0,3.0,
+249,Liberty Puzzles Pat Scott Tasty Treat Liberty Puzzles Currier and Ives Central Park Winter,Liberty,,551.0,535.0,Average,Average,2.0,2.0,2.0
+250,Liberty Puzzles Paul Ranson Edge of the Forest Liberty Puzzles Phil Lewis Winter Carnival III,Liberty,,527.0,547.0,Hard,A-Easy,2.0,3.0,1.0
+251,"Liberty Puzzles Paul Signac The Herb Market, Verona Liberty Puzzles Claude Monet The Artists Garden at Giverny",Liberty,,505.0,531.0,Average,Average,2.0,2.0,2.0
+252,Liberty Puzzles Paul Signac The Port of Saint-Tropez Liberty Puzzles Janice Larson Fall Garden,Liberty,,533.0,488.0,Hard,Hard,2.0,3.0,3.0
+253,Liberty Puzzles Phil Lewis Flatirons ,Liberty,,864.0,,Average,,1.0,2.0,
+254,Liberty Puzzles Phil Lewis Let It Flow Liberty Puzzles Sue Coccia Grizzly Bear,Liberty,,420.0,471.0,Average,Average,2.0,2.0,2.0
+255,Liberty Puzzles Phil Lewis Phoenix Liberty Puzzles Cats and Doves,Liberty,,466.0,519.0,Average,Hard,2.0,2.0,3.0
+256,Liberty Puzzles Phil Lewis Sugar Magnolia ,Liberty,,881.0,,Hard,,1.0,3.0,
+257,Liberty Puzzles Phil Lewis Sunshine Daydream ,Liberty,,902.0,,Hard,,1.0,3.0,
+258,Liberty Puzzles Phil Lewis The Seven Chakras Ecru Puzzles Paul Klee Cat and Bird,,,361.0,,,,1.0,2.0,
+259,Liberty Puzzles Pieter Brueghel Children Games ,Liberty,,795.0,,Average,,1.0,2.0,
+260,Liberty Puzzles Plants And Insects ,Liberty,,568.0,,Hard,,1.0,3.0,
+261,Liberty Puzzles Rebecca Cambell The Menagerie ,Liberty,,642.0,,Hard,,1.0,3.0,
+262,Liberty Puzzles Rebecca Campbell Its Raining Cats And Dogs Liberty Puzzles Alphonse Mucha Cycles Perfecta,Liberty,,470.0,400.0,Average,Average,2.0,2.0,2.0
+263,Liberty Puzzles Renoir Le Moulin de la Galette ,,,361.0,,,,1.0,2.0,
+264,Liberty Puzzles Richard Dadd The Fairy Fellers Master Stroke ,Liberty,,480.0,,Hard,,1.0,3.0,
+265,Liberty Puzzles Sage Wirth Chautauqua Park Ecru Puzzles Ton Dubbeldam Carpe Diem,Ecru,Liberty,252.0,354.0,Average,Really-Hard,2.0,2.0,4.0
+266,Liberty Puzzles Sarah Gentry Abundance Liberty Puzzles A Resounding Success,Liberty,,569.0,513.0,A-Easy,Hard,2.0,1.0,3.0
+267,Liberty Puzzles Sarah Gentry Mels Belles Liberty Puzzles Rex Ray Alistair,Liberty,,546.0,550.0,Average,Average,2.0,2.0,2.0
+268,Liberty Puzzles Shuncho Cherry Blossom Viewing at Asukayama Ecru Puzzles Hara Zaichu Poets By A Winding Stream,,,361.0,,,,1.0,2.0,
+269,Liberty Puzzles Story Map Of France ,,,361.0,,,,1.0,2.0,
+270,Liberty Puzzles Sue Coccia Bald Eagle Liberty Puzzles Sue Coccia Dolphin,Liberty,,375.0,250.0,A-Easy,A-Easy,2.0,1.0,1.0
+271,Liberty Puzzles Sue Coccia Dragon Liberty Puzzles Sue Coccia Peacock,,,361.0,,,,1.0,2.0,
+272,Liberty Puzzles Sue Coccia Great Horned Owl Liberty Puzzles Jan Barwick ,Liberty,,372.0,510.0,Average,Average,2.0,2.0,2.0
+273,Liberty Puzzles Sue Coccia Mabula Elephant Liberty Puzzles Sue Coccia Bison,Liberty,,573.0,373.0,Hard,A-Easy,2.0,3.0,1.0
+274,Liberty Puzzles Sue Coccia Osprey Liberty Puzzles Linda Israel Heart Of A Bear,Liberty,,377.0,514.0,Average,Average,2.0,2.0,2.0
+275,Liberty Puzzles Sue Coccia Rainbow Trout Liberty Puzzles Phil Lewis Buffalo,,,361.0,,,,1.0,2.0,
+276,Liberty Puzzles Susan Anderton Crested Butte Liberty Puzzles Childe Hassam The Room of Flowers,Liberty,,430.0,450.0,Average,Average,2.0,2.0,2.0
+277,Liberty Puzzles Susannah Mah Fong Two Koi Liberty Puzzles Ando Hiroshige Birds and Camellia Bushes in Flower,Liberty,,536.0,511.0,Average,Average,2.0,2.0,2.0
+278,Liberty Puzzles Tarsila Amaral Exotic Landscape Lliberty Puzzles Roy De Forest Canoe Of Fate,Liberty,,519.0,519.0,A-Easy,A-Easy,2.0,1.0,1.0
+279,"Liberty Puzzles The Dole Map of the Hawaiian Islands Liberty Puzzles Anitphonal Singing, Duige",Liberty,,530.0,529.0,Average,Average,2.0,2.0,2.0
+280,Liberty Puzzles The Poultry of the World ,Liberty,,699.0,,Hard,,1.0,3.0,
+281,Liberty Puzzles The Story of Scheherazade Liberty Puzzles The Overseers Tale,Liberty,,488.0,463.0,Hard,Really-Hard,2.0,3.0,4.0
+282,Liberty Puzzles The Wonderous Isle of Manhattan ,Liberty,,722.0,,Hard,,1.0,3.0,
+283,Liberty Puzzles Valle dAosta Liberty Puzzles Grand Hotel Belvedere,Liberty,,471.0,502.0,Average,Average,2.0,2.0,2.0
+284,Liberty Puzzles Van Gogh Starry Night Over the Rhone Ecru Puzzles Aaron Wolf Twilight Treehouse of the Phosphorescent Forest,,,361.0,,,,1.0,2.0,
+285,Liberty Puzzles Vincent Van Gogh Flowering Garden Ecru Puzzles Mystery Puzzle #19,Ecru,Liberty,386.0,355.0,Average,A-Easy,2.0,2.0,1.0
+286,Liberty Puzzles Vintage Christmas Postcards Liberty Puzzles Christmas Robins,Liberty,Other-Hand-cut,744.0,270.0,Average,Average,2.0,2.0,2.0
+287,Liberty Puzzles Vogue: Hot Weather Fashions Number Liberty Puzzles Summer Fashion Number,,,361.0,,,,1.0,2.0,
+288,Liberty Puzzles Voyage Round the World Liberty Puzzles A Bevy of Wild West Women,Liberty,,502.0,477.0,A-Easy,A-Easy,2.0,1.0,1.0
+289,"Liberty Puzzles Vsevolod Niculin Bel Paese - Gastronomical Map of Italy Liberty Puzzles Giovanni Panini Interior of St. Peters, Rome",Liberty,,463.0,547.0,A-Easy,Hard,2.0,1.0,3.0
+290,Liberty Puzzles William Glackens Mahone Bay Liberty Puzzles Renoir Chrysanthemums,Liberty,,473.0,535.0,Average,Average,2.0,2.0,2.0
+291,Liberty Puzzles William Groppers American Folklore ,Liberty,,692.0,,Average,,1.0,2.0,
+292,Liberty Puzzles Winter in the Country: Gathering Ice Ecru Puzzles William Penhallow Henderson Luceros Place,Ecru,Liberty,499.0,385.0,Average,Average,2.0,2.0,2.0
+293,Liberty Puzzles Winters Day Liberty Puzzles Cranes Cycads And Wisteria,,,361.0,,,,1.0,2.0,
+294,Liberty Puzzles Wisby Liberty Puzzles Kirchner Winter Landscape In Moonlight,,,361.0,,,,1.0,2.0,
+295,Liberty Puzzles Yulia Drobova Dry Martini Liberty Puzzles Pierre-Auguste Renoir Luncheon of the Boating Party,Liberty,,545.0,545.0,A-Easy,Hard,2.0,1.0,3.0
+296,Michele Wilson Klimt Lady With Fan Maridale Products Masterpiece Wooden Puzzle Cottages By The Sea,,,361.0,,,,1.0,2.0,
+297,Mosaic Puzzles Afternoon In Venice Artifact Puzzles Angie Rees Boobie Trapped,,,361.0,,,,1.0,2.0,
+298,Mosaic Puzzles Afternoon In Venice Charming Blue Whale Puzzle,Other-Laser-cut,,500.0,676.0,Average,Average,2.0,2.0,2.0
+299,Mosaic Puzzles Love in New York Mosaic Puzzles The Streets of Paris,Other-Laser-cut,,500.0,500.0,Average,Average,2.0,2.0,2.0
+300,Mosaic Puzzles The Polar Express Mosaic Puzzles The Christmas Library,,,361.0,,,,1.0,2.0,
+301,Mr Bob Puzzles Gostwyk Chapel ,,,361.0,,,,1.0,2.0,
+302,Mr Bob Puzzles Johanna Hildebrandt Reef Fantasy Mr Bob Puzzles Sue Janson Mom Theres a Cow In The Yard,,,361.0,,,,1.0,2.0,
+303,Mr. Bob Puzzles Gary Schlatter Burano Italy ,Other-Laser-cut,,651.0,,Average,,1.0,2.0,
+304,Mr. Bob Puzzles Jan Dedman I Do Love to be Beside the Seaside Anne Belle Thompson Puzzles Desert Patio,Other-Hand-cut,Other-Laser-cut,525.0,226.0,A-Easy,A-Easy,2.0,1.0,1.0
+305,Mr. Bob Puzzles Karen Bloomfield Great Friends Mr. Bob Puzzles Kevin Bynder Makuru ,,,361.0,,,,1.0,2.0,
+306,Mr. Bob Puzzles Kevin Bynder Birak Hellofish Puzzles Azulejo Tiles,Other-Laser-cut,,252.0,125.0,Average,Average,2.0,2.0,2.0
+307,Mr. Bob Puzzles Kevin Bynder Six Seasons Collage Puzzle Lab Spectrum Web,Other-Laser-cut,,525.0,300.0,A-Easy,A-Easy,2.0,1.0,1.0
+308,Mr. Bob Puzzles Louise Farnay Beach Bums Hellofish Puzzles Cinyee Chiu Harvest Island,Other-Laser-cut,,101.0,200.0,Average,Average,2.0,2.0,2.0
+309,Mr. Bob Puzzles Noongar Seasons Birak Mr. Bob Puzzles Noongar Seasons Bunuru,Other-Laser-cut,,252.0,252.0,A-Easy,A-Easy,2.0,1.0,1.0
+310,Mr. Bob Puzzles Noongar Seasons Collage Puzzle Lab Rainbow Flow,Other-Laser-cut,,175.0,100.0,A-Easy,A-Easy,2.0,1.0,1.0
+311,Mr. Bob Puzzles Noongar Seasons Djeran Mr. Bob Puzzles Noongar Seasons Birak,Other-Laser-cut,,252.0,252.0,A-Easy,A-Easy,2.0,1.0,1.0
+312,Mr. Bob Puzzles Noongar Seasons Djeran Mr. Bob Puzzles Noongar Seasons Makuru,Other-Laser-cut,,252.0,252.0,A-Easy,Average,2.0,1.0,2.0
+313,Mr. Bob Puzzles Noongar Seasons Djilba Mr. Bob Puzzles Noongar Seasons Kambarang,Other-Laser-cut,,252.0,252.0,A-Easy,A-Easy,2.0,1.0,1.0
+314,Mr. Bob Puzzles Noongar Seasons Makuru Curiosi Puzzle Lolly,Other-Laser-cut,,525.0,123.0,Average,Average,2.0,2.0,2.0
+315,Mr. Bob Puzzles Rebecca Cool Birds in a Tree Hartmaze Puzzles Hundred Birds Paying Homage to The Phoenix,Other-Laser-cut,,525.0,253.0,Average,Average,2.0,2.0,2.0
+316,Mr. Bob Puzzles Rebecca Cool Rebeccas Collage Anne Belle Thompson Puzzles The Brick Walk,Other-Hand-cut,Other-Laser-cut,525.0,145.0,Average,Average,2.0,2.0,2.0
+317,Mr. Bob Puzzles Robert Williams Dance of the Steel Girders ,Other-Laser-cut,,1001.0,,Average,,1.0,2.0,
+318,Mr. Bob Puzzles Sue Janson Serenity Peaceful Wooden Puzzles August Macke Landscape at the Tegersee,Other-Laser-cut,,252.0,250.0,Average,Average,2.0,2.0,2.0
+319,Mr. Gogo Cinema Challenge ,Other-Hand-cut,,319.0,,Average,,1.0,2.0,
+320,Mr. Gogo Puzzles Ernst Haeckel Hummingbirds ,Other-Hand-cut,,356.0,,Average,,1.0,2.0,
+321,Mr. Gogo Puzzles London Bridges  ,Other-Hand-cut,,411.0,,Average,,1.0,2.0,
+322,Mr. Gogo Puzzles Magic Flower Artifact Puzzles Carl Larsson Holiday Reading,Artifact,Other-Hand-cut,300.0,163.0,Really-Hard,Average,2.0,4.0,2.0
+323,"Nautilus Puzzles Alfred Concanen Modern Advertising: A Railway Station in 1874 Nautilus Puzzles Jo-Anne Yelen Kenmare, Ireland",Nautilus,,519.0,287.0,Hard,Average,2.0,3.0,2.0
+324,Nautilus Puzzles Alphonse Mucha Times of the Day ,Nautilus,,539.0,,Hard,,1.0,3.0,
+325,Nautilus Puzzles Buddha With Lotus Flowers Ecru Puzzles Nicole Gustafson The Bookkeeper,Ecru,Nautilus,383.0,372.0,Average,Average,2.0,2.0,2.0
+326,Nautilus Puzzles C. Michael Dudash Noahs Ark ,Nautilus,,560.0,,Average,,1.0,2.0,
+327,Nautilus Puzzles Circle of Flowers Nautilus Puzzles  Summer Hummingbird,Nautilus,,392.0,222.0,Average,Average,2.0,2.0,2.0
+328,Nautilus Puzzles Colin Thompson Too Loud Nautilus Puzzles The Great Coney Island Water Carnival,Nautilus,,530.0,500.0,Average,Average,2.0,2.0,2.0
+329,Nautilus Puzzles Curious Chickens Nautilus Puzzles Jean-Honore Fragonard The Swing,Nautilus,,349.0,334.0,A-Easy,Average,2.0,1.0,2.0
+330,Nautilus Puzzles Dominico Ghirlandiao The Last Supper Nautilus Puzzles Hieronymous Bosch Beasts From the Garden of Earthly Delights,Nautilus,,475.0,400.0,Average,Average,2.0,2.0,2.0
+331,Nautilus Puzzles Doors To The World Nautilus Puzzles Jacek Yerka Four Seasons,Nautilus,,557.0,310.0,Average,Average,2.0,2.0,2.0
+332,Nautilus Puzzles Flower Still Life 1614 Nautilus Puzzles Monument Valley Sunset,Nautilus,,172.0,181.0,Average,Average,2.0,2.0,2.0
+333,Nautilus Puzzles Fusion Idol Arts Day of the Dead Nautilus Puzzles Amadeo de Souza Cardosa Birth of the Viola,Nautilus,,256.0,349.0,A-Easy,A-Easy,2.0,1.0,1.0
+334,Nautilus Puzzles Garry Gay Amazing Sea Urchins Nautilus Puzzles Easter Spiral,Nautilus,,175.0,420.0,A-Easy,Really-Hard,2.0,1.0,4.0
+335,Nautilus Puzzles Graeme Stevenson Grizzly Bear Dreams Nautilus Puzzles Linda Bittner California Courtship,Nautilus,,400.0,426.0,Average,Average,2.0,2.0,2.0
+336,Nautilus Puzzles Grand Canyon Toroweap Twilight Dreamton Puzzles Cinque Terre Italy,,,361.0,,,,1.0,2.0,
+337,Nautilus Puzzles Greg Giordano Adirondack Christmas Birds Nautilus Puzzles William Vanderdasson Wrapped Up for Winter,,,361.0,,,,1.0,2.0,
+338,Nautilus Puzzles Grizzly Bear Dreams Nautilus Puzzles The Vasa In Stockholm Harbor,Nautilus,,400.0,425.0,Average,Average,2.0,2.0,2.0
+339,Nautilus Puzzles Homeward Bound Nautilus Puzzles Ice Skaters At Rockefeller Center,Nautilus,,358.0,249.0,Average,Average,2.0,2.0,2.0
+340,Nautilus Puzzles Howard Robinson Fish Alive Nautilus Puzzles Graeme Stevenson Eagles Flight,Nautilus,,144.0,481.0,A-Easy,Hard,2.0,1.0,3.0
+341,Nautilus Puzzles Howard Robinson Turtle Beach Nautilus Puzzles Kathy Jakobsen Mr. Coles Granary,Nautilus,,475.0,351.0,A-Easy,A-Easy,2.0,1.0,1.0
+342,Nautilus Puzzles Howard Robinson Winter Bird Gathering Nautilus Puzzles Christmas Cocoa Time,,,361.0,,,,1.0,2.0,
+343,Nautilus Puzzles Irish Pubs Anthology Puzzles Around the World,Nautilus,,501.0,150.0,Average,Average,2.0,2.0,2.0
+344,Nautilus Puzzles Jacek Yerka Knight Moves Nautilus Puzzles William Lionel Wylie Restoring The HMS Victory,Nautilus,Other-Hand-cut,323.0,425.0,Average,Average,2.0,2.0,2.0
+345,Nautilus Puzzles Jan Brueghel the Elder  Collectors Cabinet ,Nautilus,,601.0,,Average,,1.0,2.0,
+346,"Nautilus Puzzles Jason Taylor Van Life-Grand Tetons Nautilus Puzzles Van Gogh Vase with Poppies, Cornflowers, Peonies, and Chrysanthemums",Nautilus,,474.0,120.0,Average,Average,2.0,2.0,2.0
+347,Nautilus Puzzles Jeff Greene The Golden Spike Mr. Bob Jim Tsinganos Safety at Sea,Nautilus,Other-Laser-cut,401.0,501.0,Average,Average,2.0,2.0,2.0
+348,Nautilus Puzzles John Collier The Sleeping Beauty Nautilus Puzzles John Duncan Saint Bride,Nautilus,,437.0,352.0,Average,Average,2.0,2.0,2.0
+349,Nautilus Puzzles John Collier The Sleeping Beauty Nautilus Puzzles Kikugawa Eizan Cherry Blossoms In A Palace Garden In The Modern Style,Nautilus,,437.0,302.0,Average,Average,2.0,2.0,2.0
+350,Nautilus Puzzles Karma Chameleon Nautilus Puzzles Curious Chickens,Nautilus,,337.0,349.0,Average,Average,2.0,2.0,2.0
+351,Nautilus Puzzles Kevin Walsh Victorian Christmas Village Anthology Puzzles Ugly Sweaters,Nautilus,,608.0,180.0,Average,Average,2.0,2.0,2.0
+352,Nautilus Puzzles Larry Eifert Two Sides of The Sea ,Nautilus,,501.0,,Average,,1.0,2.0,
+353,Nautilus Puzzles Linda Ravenscroft Waiting for Neptune Nautilus Puzzles Greg Giordano Purple Daze,,,361.0,,,,1.0,2.0,
+354,Nautilus Puzzles Maple Creek Nautilus Puzzles Lancelot and Guinevere,Nautilus,,385.0,437.0,A-Easy,Average,2.0,1.0,2.0
+355,Nautilus Puzzles Monets Waterlilies Nautilus Puzzles Doors to the World,Nautilus,,237.0,557.0,Average,Average,2.0,2.0,2.0
+356,Nautilus Puzzles Moonlight Magic Nautilus Puzzles Arabian Fantasy,Nautilus,,301.0,440.0,Average,Average,2.0,2.0,2.0
+357,Nautilus Puzzles Moonrise Nautilus Puzzles Bearly There,Nautilus,,360.0,333.0,Average,Average,2.0,2.0,2.0
+358,"Nautilus Puzzles Parc Guell, Barcelona Nautilus Puzzles John Duncan Saint Bride",Nautilus,,410.0,352.0,A-Easy,Average,2.0,1.0,2.0
+359,"Nautilus Puzzles Petrus Plancius World Map, 1594",Nautilus,,555.0,,Average,,1.0,2.0,
+360,"Nautilus Puzzles Pierre-Auguste Renoir Woman with a Guitar, 1897 Nautilus Puzzles Kevin Walsh The Flying Scotsman at Kings Cross",Nautilus,,349.0,299.0,Average,A-Easy,2.0,2.0,1.0
+361,Nautilus Puzzles Pip Shuckburgh Dance of the Elephants Nautilus Puzzles Alphonse Mucha Spring,Nautilus,,499.0,122.0,Average,Average,2.0,2.0,2.0
+362,Nautilus Puzzles Reinier Nooms Before the Battle of the Downs Nautilus Puzzles Jan Brueghel the Elder Collectors Cabinet,Nautilus,,425.0,601.0,Average,Average,2.0,2.0,2.0
+363,Nautilus Puzzles Summer Hummingbird Nautilus Puzzles Sloth Among The Butterflies,Nautilus,,222.0,143.0,Average,Average,2.0,2.0,2.0
+364,Nautilus Puzzles Van Gogh Irises Nautilus Puzzles Walter Crane Neptune&#39;s Horses,Nautilus,,464.0,404.0,Hard,Hard,2.0,3.0,3.0
+365,Nautilus Puzzles Van Gogh Trip To Auvers Nautilus Puzzles Niagara Falls Railway,,,361.0,,,,1.0,2.0,
+366,Nautilus Puzzles Virigina Francess Sterrett Art Deco Princess Nautilus Puzzles Pip Shuckburgh Dance Of The Elephants,Nautilus,,367.0,499.0,Average,Average,2.0,2.0,2.0
+367,Nautilus Puzzles Wildflower Tapestry  Nautilus Puzzles Fall Fishing,Nautilus,,506.0,425.0,Average,Average,2.0,2.0,2.0
+368,Nervous System Jonathan McCabe Radial Series #1559 Wongo Puzzles The Butterfly,Other-Laser-cut,,80.0,206.0,Average,Average,2.0,2.0,2.0
+369,Nervous Systems Agate Puzzle Thom Spencer Wheel of Changing Colors,Other-Hand-cut,Other-Laser-cut,171.0,441.0,Hard,Really-Hard,2.0,3.0,4.0
+370,Nervous Systems Cosmic Cliffs Infinite Galaxy Puzzle Nervous Systems Giant Geode,Other-Laser-cut,,264.0,600.0,Average,Average,2.0,2.0,2.0
+371,Nervous Systems Geode Puzzle Wongo Puzzles The Elephant,Other-Laser-cut,,171.0,330.0,Hard,Really-Hard,2.0,3.0,4.0
+372,Nervous Systems Infinite Galaxy Unidragon Inexhaustible Abundance Mandala,Other-Laser-cut,,131.0,200.0,Average,Average,2.0,2.0,2.0
+373,Nervous Systems Puzzles Geode Nervous Systems Puzzles Earth,Other-Laser-cut,,171.0,441.0,Hard,Really-Hard,2.0,3.0,4.0
+374,Optimago John Strickland Goodall Summer Outing Unidragon Puzzles Playful Parrots,Other-Hand-cut,Other-Laser-cut,320.0,620.0,Average,Hard,2.0,2.0,3.0
+375,Optimago Puzzles Stars and Stripes Optimago Puzzles Sheep,Other-Hand-cut,,308.0,262.0,Average,Average,2.0,2.0,2.0
+376,Palmaris Puzzles Susan Schroder Portal Swift Of Spring ZenChalet Puzzles ,,,470.0,200.0,Average,Average,2.0,2.0,2.0
+377,Parr Puzzles L-series Alex Ross Card Sharks ,,,540.0,,Average,,1.0,2.0,
+378,Peaceful Puzzles Colorful Gerbera Daisies Spuzzles Doodle 2,Other-Laser-cut,,250.0,360.0,Average,Average,2.0,2.0,2.0
+379,Peaceful Puzzles Degas Rehearsal FoxSmartBox Carl Kahler My Wifes Lovers,Other-Laser-cut,,440.0,350.0,Average,Average,2.0,2.0,2.0
+380,Penelope Puzzles Lake View with Wisteria Wentworth Triskelion,Wentworth,,150.0,153.0,Average,Average,2.0,2.0,2.0
+381,Puzzlapy Corinne St Mleux Green Cat Puzzlapy Corinne St Mleux Fish Bowl,,,110.0,140.0,Average,A-Easy,2.0,2.0,1.0
+382,Puzzle Lab Julie Amlin New Day Puzzle Lab Mike Lathrop Islands of Elements,Other-Laser-cut,,175.0,175.0,A-Easy,A-Easy,2.0,1.0,1.0
+383,Puzzle Lab Rare Moon Puzzle Lab Moon Light,Other-Laser-cut,,300.0,213.0,Average,Average,2.0,2.0,2.0
+384,Puzzlemonk Sanctuary Michele Wilson Vase Celadon,Other-Hand-cut,,162.0,350.0,Average,Average,2.0,2.0,2.0
+385,Puzzlewood Birds and Flowers JC Ayer Mystery Puzzle,Other-Hand-cut,,484.0,300.0,Hard,A-Easy,2.0,3.0,1.0
+386,ScrollRight Puzzles City Market Sunflower Wongo Puzzles The Cactus,,,128.0,241.0,Average,Average,2.0,2.0,2.0
+387,Shay Carmichael Puzzles Inchworm Shay Carmichael Puzzles Squirreled Away,,,100.0,100.0,Average,Average,2.0,2.0,2.0
+388,Snowflake Puzzle Collage of 8 Classic National Parks Travel Posters Wongo Puzzles The Turtle,Other-Hand-cut,,500.0,207.0,Average,Average,2.0,2.0,2.0
+389,Snowflake Puzzles Colorful Twirly-ques Ecru Puzzles Mystery Puzzle #23,Ecru,,500.0,,Average,,1.0,2.0,
+390,Snowflake Puzzles Hiroshige Ando Minowa Kanasugi Mikawashims Snowflake Puzzles Seba,Other-Hand-cut,,500.0,500.0,A-Easy,A-Easy,2.0,1.0,1.0
+391,Snowflake Puzzles Koganeibashi no sekishō Snowflake Puzzles Utagawa Hiroshige Zojoji Pagoda and Akabane,Other-Hand-cut,,511.0,514.0,A-Easy,A-Easy,2.0,1.0,1.0
+392,Snowflake Puzzles Libertys Starry Night by Mark Whitesell Snowflake Puzzles Fractal Digital Art,Other-Hand-cut,,500.0,500.0,Really-Hard,Really-Hard,2.0,4.0,4.0
+393,Snowflake Puzzles Mark Whitesell Paint Pour Fractal Snowflake Puzzles Mark Whitesell Dual Spirals Fractal,Other-Hand-cut,,500.0,500.0,Average,Average,2.0,2.0,2.0
+394,Snowflake Puzzles Mark Whitesell Skagit Valley Tulips Snowflake Puzzles Benh Lieu Song Inside an Inflating Hot Air Balloon,Other-Hand-cut,,500.0,500.0,Hard,Hard,2.0,3.0,3.0
+395,Snowflake Puzzles Peacocks and Poppies BCB Puzzles Miko A Wonderful Day,Other-Hand-cut,,500.0,300.0,Average,A-Easy,2.0,2.0,1.0
+396,Snowflake Puzzles Seba Snowflake Puzzles Mandala,Other-Hand-cut,,500.0,500.0,A-Easy,Average,2.0,1.0,2.0
+397,Snowflake Puzzles Shinobazu Pond During a Foggy Evening Snowflake Puzzles Red Warehouses at Gloucester,Other-Hand-cut,,500.0,500.0,Average,Average,2.0,2.0,2.0
+398,Spuzzles Doodle 3 Spuzzles Naranja,Other-Laser-cut,,360.0,200.0,A-Easy,Hard,2.0,1.0,3.0
+399,Spuzzles Kiwi Spuzzles Lemon,Other-Laser-cut,,200.0,200.0,A-Easy,Average,2.0,1.0,2.0
+400,Spuzzles Robert Delaunay Rhythm Spuzzles Kundalee,Other-Laser-cut,,200.0,200.0,Average,Average,2.0,2.0,2.0
+401,Sr. B Puzzles Utagawa Hiroshige Maguro Drum Bridge and Sunset Hill ,,,548.0,,Average,,1.0,2.0,
+402,Starz Puzzles Alexandra Gallagher This Land Starz Puzzles Color By Feliks Sunflowers,,,263.0,263.0,Average,Average,2.0,2.0,2.0
+403,Starz Puzzles Cheri Lee Charlton Almost 60 Owls Mr. Bob Puzzles Lauren Altes Beneath the Waves,,,361.0,,,,1.0,2.0,
+404,Starz Puzzles Christine Reichow Garden Magic 2 Wentworth Puzzles Moises Levy Japanese Maple,,,361.0,,,,1.0,2.0,
+405,Starz Puzzles Dean Russo Best Friends Puzzle Lab Mandy Leinbach Papa Bear,Other-Laser-cut,,159.0,200.0,Average,Hard,2.0,2.0,3.0
+406,Starz Puzzles Francois Ruer Medieval Bunny Life Starz Puzzles Francois Ruer Cooking Witch,,,353.0,353.0,Average,Average,2.0,2.0,2.0
+407,Stave Puzzles Awesome Blossom DaVici Puzzles Offstage,DaVici,Stave,175.0,190.0,Hard,Average,2.0,3.0,2.0
+408,Stave Puzzles Betsy Brown Riding High Hartmaze Puzzles Colorful Owl,Stave,Other-Laser-cut,180.0,209.0,Hard,A-Easy,2.0,3.0,1.0
+409,Stave Puzzles Bill Bell Quebec City Wentworth Puzzles Sakura Spring,Stave,Wentworth,522.0,500.0,Average,Average,2.0,2.0,2.0
+410,Stave Puzzles Branching Out Artifact Puzzles Nadieh Bremer Coronium,,,361.0,,,,1.0,2.0,
+411,Stave Puzzles Candy Thun English Garden Wentworth Puzzles Mini Puzzles,Stave,Wentworth,160.0,40.0,Hard,A-Easy,2.0,3.0,1.0
+412,Stave Puzzles Candy Thun Tropical Punch Whimsy Puzzles Lighthouse By The Sea,Stave,Other-Laser-cut,70.0,100.0,Average,A-Easy,2.0,2.0,1.0
+413,Stave Puzzles Candy Thun Turtle Soup Hartmaze Puzzles Brilliant Cells and Chequers,Stave,Other-Laser-cut,70.0,167.0,Really-Hard,A-Easy,2.0,4.0,1.0
+414,"Stave Puzzles Carol Dyer Boston, A City By The Sea Wentworth Puzzles William Vanderdasson Silent Watch",,,361.0,,,,1.0,2.0,
+415,Stave Puzzles Circus Engine Trove Puzzles Nine Mandalas,Stave,Other-Laser-cut,55.0,250.0,A-Easy,A-Easy,2.0,1.0,1.0
+416,Stave Puzzles Dog-gone It Trove Puzzles Herringbone Repeat,Stave,Other-Laser-cut,100.0,250.0,Average,A-Easy,2.0,2.0,1.0
+417,Stave Puzzles Edith Bingham Give Me A Buzz Whimsy Puzzles Singing Fish,Stave,Other-Laser-cut,41.0,100.0,Average,A-Easy,2.0,2.0,1.0
+418,Stave Puzzles Elephant Show Puzzle Michele Wilson - Alain Thomas Quetzal resplendissant,Stave,Other-Hand-cut,35.0,250.0,Average,Hard,2.0,2.0,3.0
+419,Stave Puzzles Flute Loop Stumpcraft Puzzles Travis Anderson Tea From The Void,,,361.0,,,,1.0,2.0,
+420,Stave Puzzles Ghouls Night Out Hope Puzzles Fish Of Rhode Island,,,361.0,,,,1.0,2.0,
+421,Stave Puzzles Have A Ball Artifact Puzzles Kristian Adam Mr. Pink Palace,Artifact,Stave,65.0,203.0,Hard,A-Easy,2.0,3.0,1.0
+422,Stave Puzzles Hide n Seek Artifact Puzzles Valentin Rekunenko Swordfight,Artifact,Stave,125.0,439.0,Hard,Hard,2.0,3.0,3.0
+423,Stave Puzzles James C. Christensen Jonah and the Whale Nautilus Puzzles Garry Gay Amazing Sea Urchins,,,361.0,,,,1.0,2.0,
+424,Stave Puzzles Kimono My House Artifact Puzzles Nadieh Bremer Nebulium,,,361.0,,,,1.0,2.0,
+425,Stave Puzzles Koi Pond Anne Belle Thompson Chinese Takeout,Stave,Other-Hand-cut,194.0,255.0,Average,Average,2.0,2.0,2.0
+426,Stave Puzzles Linda Nelson Stocks Let Freedom Ring Mosaic Puzzles Copenhagen Sunlight,,,361.0,,,,1.0,2.0,
+427,"Stave Puzzles My Special Tea Wentworth Puzzles The Library Chatsworth, Derbyshire",Stave,Wentworth,75.0,100.0,Really-Hard,A-Easy,2.0,4.0,1.0
+428,Stave Puzzles Night Before Christmas Artifact Puzzles Egon Schiele Four Trees,Artifact,Stave,300.0,79.0,Average,A-Easy,2.0,2.0,1.0
+429,Stave Puzzles Soaring To New Heights Ecru Puzzles Ochiai Rofu Kyoto Four Scenes,Ecru,Stave,140.0,333.0,Really-Hard,Average,2.0,4.0,2.0
+430,Stave Puzzles Spa de Bow Wow Wentworth Puzzles Joseph Turner Dawn after the Wreck,Stave,Wentworth,65.0,140.0,Hard,Average,2.0,3.0,2.0
+431,Stave Puzzles Steve Skelton Farm To Table ,,,361.0,,,,1.0,2.0,
+432,Stave Puzzles Susan Greenleaf A Lasting Impression Peaceful Puzzles Gustav Klimt Church in Cassone,Stave,Other-Laser-cut,90.0,250.0,Average,Average,2.0,2.0,2.0
+433,Stave Puzzles Susan Greenleaf What A Dive! Creatif Puzzle The Coral Oasis,,,361.0,,,,1.0,2.0,
+434,Steve Gordon Meta Maze Puzzle 11 Nautilus Puzzles Peking Dragon,Nautilus,,205.0,150.0,Average,Average,2.0,2.0,2.0
+435,Steve Gordon Puzzles Squa Dia Cir Vortex Maze 8 Nervous Systems Rainbow,Other-Laser-cut,,511.0,380.0,Average,Average,2.0,2.0,2.0
+436,Touch Wood Puzzles Mysterious Badger Zufa Puzzles Cat,Other-Laser-cut,,152.0,173.0,Average,Average,2.0,2.0,2.0
+437,Trove Puzzles 9 Donuts Zufa Puzzles Two Cats,Other-Laser-cut,,250.0,186.0,Average,Average,2.0,2.0,2.0
+438,Turtle Teasers Competition Puzzle Zen Puzzles Circles of Life,Other-Laser-cut,,100.0,150.0,Average,Average,2.0,2.0,2.0
+439,Turtle Teasers Steven Meyers Dahlia Zen Puzzles Honeybees,Other-Laser-cut,,295.0,202.0,Average,Really-Hard,2.0,2.0,4.0
+440,Turtle Teasers The Paradise of the Medicine Buddha Lands&#39; End Puzzle,,,158.0,200.0,Average,Average,2.0,2.0,2.0
+441,Unidragon Cappadocia Quezzle ,Other-Laser-cut,,259.0,322.0,A-Easy,Average,2.0,1.0,2.0
+442,Unidragon Iridescent Chameleon Unidragon Shining Fish,Other-Laser-cut,,315.0,331.0,Average,A-Easy,2.0,2.0,1.0
+443,Unidragon Puzzles Eternal Elephant Unidragon Puzzles Intergalaxy Butterfly,Other-Laser-cut,,194.0,306.0,Average,Average,2.0,2.0,2.0
+444,Unidragon Puzzles Fairy Bird Unidragon Puzzles Charming Owl,Other-Laser-cut,,198.0,187.0,Average,Average,2.0,2.0,2.0
+445,Unidragon Puzzles Inspiring Unicorn Unidragon Puzzles Milky Whales,Other-Laser-cut,,195.0,268.0,Average,Average,2.0,2.0,2.0
+446,Vintage Penelope Puzzle Boy with Green Ball Optimago Bailleul le Jeune Nouvelle Mappe-Monde,Other-Hand-cut,,80.0,600.0,Average,Average,2.0,2.0,2.0
+447,Waterford Puzzles (Elms Puzzles) Fall Wreath BCB Puzzles Grannys Attic,Other-Hand-cut,,80.0,150.0,Average,A-Easy,2.0,2.0,1.0
+448,Waterford Puzzles (Elms) Parker Fulton Taj Mahal ,,,416.0,,Really-Hard,,1.0,4.0,
+449,Waterford Puzzles (Elms) Tim Zeltner Multi-season Earth Day ,,,619.0,,Average,,1.0,2.0,
+450,Waterford Puzzles Merry Kohn Buvia From Around Here Now Wentworth Puzzles Adrian Chesterman Country Garden,,,361.0,,,,1.0,2.0,
+451,"Wentwort Puzzles Anna Stowe Antwerpen-Centraal Railway Station, Belgium Wentworth Puzzles Lars Stewart Indian Pillow Market",Wentworth,,243.0,500.0,A-Easy,A-Easy,2.0,1.0,1.0
+452,Wentworth Puzzles Abraham Hunter Family Joy ,Wentworth,,1000.0,,Really-Hard,,1.0,4.0,
+453,Wentworth Puzzles Abraham Hunter Mountain Morning ,Wentworth,,1000.0,,Average,,1.0,2.0,
+454,Wentworth Puzzles Aimee Stewart The Amazing Animal Kingdom ,Wentworth,,1000.0,,Average,,1.0,2.0,
+455,Wentworth Puzzles Assaf Frank Snowman Bench ,Wentworth,,1000.0,,Average,,1.0,2.0,
+456,Wentworth Puzzles Beautiful Victorian Day Whimsy Puzzles Julie Pace Hoff Last Minute Christmas Flurry,Wentworth,,450.0,,Average,,1.0,2.0,
+457,Wentworth Puzzles Best Cat Stories Wentworth Puzzles Colin Thompson The Collectors Cupboard,Wentworth,,500.0,500.0,Average,Average,2.0,2.0,2.0
+458,Wentworth Puzzles Breezy River Wentworth Puzzles Joy LaForme Black Cat Books,Wentworth,,500.0,500.0,Average,Average,2.0,2.0,2.0
+459,Wentworth Puzzles Can You See Me Wentworth Puzzles Aimee Stewart Wish Upon a Bookshop,Wentworth,,245.0,500.0,Hard,Average,2.0,3.0,2.0
+460,Wentworth Puzzles Celebrate Life Gallery The Puzzle that Froze Christmas Wentworth Puzzles Alamy Photos The Puzzle that Broke the Ice,,,361.0,,,,1.0,2.0,
+461,Wentworth Puzzles Chris Ceaser Kaleidoscope ,Wentworth,,500.0,,Really-Hard,,1.0,4.0,
+462,Wentworth Puzzles Christopher Rogers The Cove Wentworth Puzzles St Edwards Church Leek,Wentworth,,500.0,500.0,Average,Average,2.0,2.0,2.0
+463,Wentworth Puzzles Claire Comerford Summer Garden ,Wentworth,,1000.0,,Average,,1.0,2.0,
+464,Wentworth Puzzles Claire McElfatrick Secret Garden Wentworth Puzzles Lucy Pittaway Strolling Home,Wentworth,,500.0,500.0,Average,Average,2.0,2.0,2.0
+465,Wentworth Puzzles Cobble Hill Image Best Cat Stories Artifact Puzzles Gavin Watson Creature Comforts,Artifact,Wentworth,500.0,322.0,Average,Average,2.0,2.0,2.0
+466,Wentworth Puzzles Colin Thompson Doors Open ,Wentworth,,1000.0,,Average,,1.0,2.0,
+467,Wentworth Puzzles Colin Thompson Gardeners Cabinet Boardwalk Puzzles Tim Zeltner Multi-season Earth Day,Wentworth,Other-Laser-cut,500.0,448.0,Average,Average,2.0,2.0,2.0
+468,Wentworth Puzzles Colin Thompson Kitchen Cupboard ,Wentworth,,1000.0,,Average,,1.0,2.0,
+469,Wentworth Puzzles Colin Thompson Neverending Stories ,Wentworth,,1000.0,,Average,,1.0,2.0,
+470,Wentworth Puzzles Colin Thompson Our Town ,Wentworth,,1000.0,,Hard,,1.0,3.0,
+471,Wentworth Puzzles Colin Thompson The Collectors Cupboard ,Wentworth,,1000.0,,Really-Hard,,1.0,4.0,
+472,Wentworth Puzzles David Feather Hedgehog Wentworth Puzzles Victoria Hall Three Sisters,Wentworth,,500.0,250.0,Average,Hard,2.0,2.0,3.0
+473,Wentworth Puzzles David Maclean Parisian Charm ,Wentworth,,1000.0,,A-Easy,,1.0,1.0,
+474,Wentworth Puzzles David Newton Feline Fulfilment (After Klimt) ,Wentworth,,1000.0,,Average,,1.0,2.0,
+475,Wentworth Puzzles David Penfound Feathered Friends ,Wentworth,,1000.0,,Average,,1.0,2.0,
+476,Wentworth Puzzles Dominic Davison April Cottage Wentworth Puzzles Aimee Stewart Life is an Open Book-London,Wentworth,,250.0,250.0,Average,Average,2.0,2.0,2.0
+477,Wentworth Puzzles Dominic Davison Christmas at Home ,Wentworth,,1000.0,,Average,,1.0,2.0,
+478,Wentworth Puzzles Dominic Davison Church Lane Cottage ,Wentworth,,1000.0,,Average,,1.0,2.0,
+479,Wentworth Puzzles Dominic Davison Mountain Cabin ,Wentworth,,1000.0,,Average,,1.0,2.0,
+480,Wentworth Puzzles E. B. Watts Rabbit Heaven ,Wentworth,,1000.0,,Average,,1.0,2.0,
+481,Wentworth Puzzles E.B. Watts Sheep with Patchwork ,Wentworth,,1000.0,,Average,,1.0,2.0,
+482,"Wentworth Puzzles Eduard ArtBeat Studios Village Post Office Wentworth Puzzles Macneil Studio London, House of Parliament",Wentworth,,500.0,250.0,Average,A-Easy,2.0,2.0,1.0
+483,Wentworth Puzzles Eduard ArtBeat Studios Water Drop Wentworth Puzzles Olga Salt Fractal Geometry,Wentworth,,287.0,229.0,Average,Really-Hard,2.0,2.0,4.0
+484,Wentworth Puzzles Eduard-ArtBeat Studios Botanical Montage ,Wentworth,,1000.0,,Average,,1.0,2.0,
+485,Wentworth Puzzles Elena Khomoutova Skating of Joy in Ottawa Wentworth Puzzles Susan Entwistle Alliums and Poppies,Wentworth,,500.0,500.0,Average,Average,2.0,2.0,2.0
+486,Wentworth Puzzles Fractal Geometry Wentworth Puzzles ,Wentworth,,229.0,504.0,Really-Hard,Average,2.0,4.0,2.0
+487,Wentworth Puzzles Fun Christmas Wreath Wentworth Puzzles Pets Selfie,Wentworth,,250.0,250.0,Average,Average,2.0,2.0,2.0
+488,Wentworth Puzzles Garden Flowers of Lake Louise Wentworth Puzzles Sheep Reposing Dalby Bay Isle of Man,Wentworth,,250.0,250.0,Average,Average,2.0,2.0,2.0
+489,Wentworth Puzzles Gordon Lees Snowy Village ,Wentworth,,1000.0,,Average,,1.0,2.0,
+490,Wentworth Puzzles Grant Wood American Gothic ,Wentworth,,1500.0,,Average,,1.0,2.0,
+491,Wentworth Puzzles Greg Giordano Garden Party ,Wentworth,,1000.0,,Average,,1.0,2.0,
+492,Wentworth Puzzles Haruyo Morita Fuyune Wentworth Puzzles Peter Breughel The Wedding Dance,Wentworth,,500.0,250.0,Average,Average,2.0,2.0,2.0
+493,Wentworth Puzzles Hokusai Wave Wentworth Puzzles Walter Crane Sir Galahad In King Arthurs Court,Wentworth,,250.0,250.0,Hard,Hard,2.0,3.0,3.0
+494,"Wentworth Puzzles Holbein, Hans the Younger Portrait of Henry VIII Wentworth Puzzles The Book of Hours of the Duke of Berry (May)",Wentworth,,250.0,250.0,A-Easy,Average,2.0,1.0,2.0
+495,Wentworth Puzzles Kandinsky Squares With Concentric Circles Wentworth Puzzles Alfredo Arreguin From Here To Eternity,Wentworth,,240.0,250.0,Average,Average,2.0,2.0,2.0
+496,Wentworth Puzzles Keiti Lazy Reads Wentworth Puzzles Rainbow Washi Tape,Wentworth,,230.0,250.0,A-Easy,A-Easy,2.0,1.0,1.0
+497,Wentworth Puzzles Kirsten Ulve New York City Lady Wentworth Puzzles Steve Skelton Getting Away From It All,Wentworth,,500.0,250.0,A-Easy,A-Easy,2.0,1.0,1.0
+498,Wentworth Puzzles Klimt Santa Wentworth Puzzles Jane Ryder-Gray Festive Crackers!,Wentworth,,250.0,240.0,Average,Average,2.0,2.0,2.0
+499,Wentworth Puzzles Lars Stewart Indian Pillow Market ,Wentworth,,1000.0,,Average,,1.0,2.0,
+500,Wentworth Puzzles Lars Stewart Rainbow Washi Tape Wentworth Puzzles Lena ArtBeat Studios Egg-squisite Eggs,Wentworth,,280.0,260.0,Really-Hard,Hard,2.0,4.0,3.0
+501,Wentworth Puzzles Lena ArtBeat A Gem of a Succulent ,Wentworth,,1000.0,,Average,,1.0,2.0,
+502,Wentworth Puzzles Lesley Hammett Winter Berries Wentworth Puzzles William Vanderdasson Silent Watch,Wentworth,,250.0,500.0,Average,Average,2.0,2.0,2.0
+503,"Wentworth Puzzles Lesley Ivory Megatab, Mintaka and the Snowman ",Wentworth,,1000.0,,Average,,1.0,2.0,
+504,"Wentworth Puzzles Leslie Anne Ivory Mumu, Twiglet and Mintaka in Ancient Egypt at Christmas ",Wentworth,,1000.0,,Average,,1.0,2.0,
+505,Wentworth Puzzles Lisa Graa Jensen Skaters at St. James Park Wentworth Puzzles Julie Oldham Festival of Snowmen,Wentworth,,500.0,500.0,Average,Average,2.0,2.0,2.0
+506,Wentworth Puzzles Luigi Premazzi The Raspberry Salon ,Wentworth,,1000.0,,Average,,1.0,2.0,
+507,Wentworth Puzzles Macneil Studio Whitehall in Snow Wentworth Puzzles Alamy Photos The Puzzle that Broke the Ice,Wentworth,,250.0,252.0,A-Easy,Really-Hard,2.0,1.0,4.0
+508,Wentworth Puzzles Martin Fry Botanical Garden ,Wentworth,,1000.0,,Hard,,1.0,3.0,
+509,Wentworth Puzzles Maureen Rupprecht Pencil Collage Wentworth Puzzles Fractal Geometry Olga Salt,Wentworth,,280.0,229.0,Hard,Really-Hard,2.0,3.0,4.0
+510,Wentworth Puzzles Maureen Sparling January King Cabbage Wentworth Puzzles Silver Threads and Golden Needles,Wentworth,,225.0,500.0,Average,Average,2.0,2.0,2.0
+511,Wentworth Puzzles Miguel Freitas This is London ,Wentworth,,1000.0,,A-Easy,,1.0,1.0,
+512,Wentworth Puzzles Mossy Bottom Farm Wentworth Puzzles Jungle Jaguar,Wentworth,,250.0,500.0,Average,Average,2.0,2.0,2.0
+513,Wentworth Puzzles Nene Thomas Queen of Silk ,Wentworth,,1000.0,,Average,,1.0,2.0,
+514,Wentworth Puzzles P.D. Moreno Cabin in the Woods ,Wentworth,,1000.0,,A-Easy,,1.0,1.0,
+515,Wentworth Puzzles Paula Doherty Nativity Kings ,Wentworth,,628.0,322.0,Hard,Average,2.0,3.0,2.0
+516,Wentworth Puzzles Peter Barrett Noahs Ark Wentworth Puzzles Myron Standret Beauty World,Wentworth,,250.0,243.0,Average,Average,2.0,2.0,2.0
+517,Wentworth Puzzles Pieter Brueghel the Younger The Village Festival ,Wentworth,,1000.0,,Average,,1.0,2.0,
+518,Wentworth Puzzles Rainbow Washi Tape Wentworth Puzzles Water Drop,Wentworth,,280.0,280.0,A-Easy,A-Easy,2.0,1.0,1.0
+519,Wentworth Puzzles Randal Spangler Cat Bookshelf Wentworth Puzzles Wendy Edelson Cosy Snowman,Wentworth,,500.0,500.0,A-Easy,A-Easy,2.0,1.0,1.0
+520,Wentworth Puzzles Rebecca McCulloch Harbour Houses Wentworth Puzzles Kay Widdowson Wheelbarrow Garden,Wentworth,,250.0,250.0,A-Easy,A-Easy,2.0,1.0,1.0
+521,Wentworth Puzzles Richard Macneil Summer Hedgehogs ,Wentworth,,1000.0,,Average,,1.0,2.0,
+522,Wentworth Puzzles Russian Dolls ,Wentworth,,750.0,,A-Easy,,1.0,1.0,
+523,Wentworth Puzzles Sailing To The Tunes Wentworth Puzzles Julia Rigby The Art Fair,,,361.0,,,,1.0,2.0,
+524,Wentworth Puzzles Skating At Rockefeller Center ,,,361.0,,,,1.0,2.0,
+525,Wentworth Puzzles Spring Sakura ,Wentworth,,1000.0,,Average,,1.0,2.0,
+526,Wentworth Puzzles Steve Crisp Halloween House Wentworth Puzzles The Puzzle that Pines for Your Attention,Wentworth,,518.0,504.0,A-Easy,Really-Hard,2.0,1.0,4.0
+527,Wentworth Puzzles Steve Read Pottery Studio Wentworth Puzzles Bill Mundy The Illuminated Manuscript,Wentworth,,500.0,237.0,A-Easy,A-Easy,2.0,1.0,1.0
+528,"Wentworth Puzzles Sue Coccia Dragon Wentworth Puzzles National Trust Wall Garden, Nymans, West Sussex",Wentworth,,210.0,230.0,Average,Average,2.0,2.0,2.0
+529,Wentworth Puzzles The 70th Wedding Anniversary of Queen Elizabeth II and the Duke of Edinburgh Wentworth Puzzles Royal Wedding Commemorative Puzzle- The Duke and Duchess of Cambridge,Wentworth,,250.0,270.0,Average,Average,2.0,2.0,2.0
+530,Wentworth Puzzles Thomas Cole The Course of Empire: The Consummation of Empire ,Wentworth,,1500.0,,Hard,,1.0,3.0,
+531,Wentworth Puzzles Tiki Evening Delight Wentworth Puzzles Colin Thompson The Gardeners Cupboard,Wentworth,,500.0,500.0,Average,Average,2.0,2.0,2.0
+532,Wentworth Puzzles Tsuki Hoshi Wentworth Puzzles Tapestry Cat,Wentworth,,250.0,250.0,Average,Average,2.0,2.0,2.0
+533,Wentworth Puzzles Van Gogh Almond Blossom Wentworth Puzzles Time for Tea,Wentworth,,321.0,250.0,Average,Average,2.0,2.0,2.0
+534,Wentworth Puzzles Van Gogh Almond Blossoms ,Wentworth,,1000.0,,Average,,1.0,2.0,
+535,Wentworth Puzzles Vintage Opera Posters Wentworth Puzzles Platinum Jubilee Of Queen Elizabeth II,Wentworth,Other-Hand-cut,250.0,250.0,Average,Average,2.0,2.0,2.0
+536,"Wentworth Puzzles Zebo Ludvicek Birdcages Wentworth Puzzles Hyde Street View, San Francisco",Wentworth,,500.0,250.0,Average,Average,2.0,2.0,2.0
+537,Wentworth Puzzles Zhang Meili Red Lillies ,Wentworth,,1000.0,,Average,,1.0,2.0,
+538,What A Wood Work Aztec Calendar Anthology Spooktober,,,500.0,200.0,Average,Average,2.0,2.0,2.0
+539,Whimsy Puzzles Anton Foltin Zion National Park Whimsy Puzzles Macaw Parrots,Other-Laser-cut,,1000.0,1000.0,Hard,Hard,2.0,3.0,3.0
+540,Whimsy Puzzles Dmitry Kovba Mt. Rainier National Park Whimsy Puzzles Fruits and Veggies,Other-Laser-cut,,1000.0,1000.0,Average,Hard,2.0,2.0,3.0
+541,Whimsy Puzzles Frank Champine Magic Forest Whimsy Puzzles Radiant Butterflies,Other-Laser-cut,,500.0,1000.0,A-Easy,Hard,2.0,1.0,3.0
+542,Whimsy Wood Puzzles An Ocean Party ,,,425.0,,Hard,,1.0,3.0,
+543,Zen Puzzles Basket Of Love Zen Puzzles Castle Hill,Other-Laser-cut,,300.0,300.0,Average,Average,2.0,2.0,2.0
+544,Zen Puzzles Inch By Inch Zen Puzzles Rhinocerous,Other-Laser-cut,,125.0,125.0,Average,Average,2.0,2.0,2.0
+545,Zen Puzzles Peaceful Gathering Zen Puzzles Panda,Other-Laser-cut,,204.0,204.0,A-Easy,A-Easy,2.0,1.0,1.0
+546,Zen Puzzles Waterlily  Zen Puzzles Summer In A Winter Forest,Other-Laser-cut,,297.0,349.0,Average,Average,2.0,2.0,2.0
+547,Artifact Puzzles Abu al-Hasan Squirrels BCB Puzzles Smellin Good,Artifact,Other-Hand-cut,155.0,135.0,Really-Hard,Hard,2.0,4.0,3.0
+548,Artifact Puzzles Bee Eater Artifact Puzzles Gustav Klimt Baby,Artifact,,425.0,295.0,Average,Average,2.0,2.0,2.0
+549,Artifact Puzzles Bruegel Triumph of Death Artifact Puzzles Lucas Cranach the Elder Hunting at Hartenfels Castle,Artifact,,361.0,349.0,Average,Average,2.0,2.0,2.0
+550,Artifact Puzzles Dennis Brady Circles and Squares Artifact Puzzles Diego Mazzeo Mechanical Griffin,Artifact,,65.0,207.0,A-Easy,Average,2.0,1.0,2.0
+551,Artifact Puzzles Edward Hopper Nighthawks Artifact Puzzles Munch The Scream,Artifact,,374.0,232.0,Average,Average,2.0,2.0,2.0
+552,Artifact Puzzles Giuseppe Castiglione Birds and Cherries Artifact Puzzles Gordon Barker Seaside,Artifact,,152.0,242.0,A-Easy,A-Easy,2.0,1.0,1.0
+553,Artifact Puzzles Giuseppe Castiglione Birds and Cherries Artifact Puzzles Kate Swanson Sandpipers,Artifact,,152.0,161.0,Average,Average,2.0,2.0,2.0
+554,Artifact Puzzles Gordon Barker Seaside Artifact Puzzles Kate Swanson Sandpipers,Artifact,,242.0,161.0,A-Easy,A-Easy,2.0,1.0,1.0
+555,Artifact Puzzles Iris Scott Tiger Fire Artifact Puzzles Rachel Pedder-Smith Abandoned Garden,Artifact,,306.0,296.0,Hard,Hard,2.0,3.0,3.0
+556,Artifact Puzzles Iwona Lifsches Poohsticks Artifact Puzzles Deccan Miniature,Artifact,,261.0,150.0,A-Easy,A-Easy,2.0,1.0,1.0
+557,Artifact Puzzles Karla Gerard Farmland Ecru Puzzles Van Gogh Almond Blossoms,Artifact,Ecru,154.0,210.0,Average,Really-Hard,2.0,2.0,4.0
+558,Artifact Puzzles Karla Gerard Night Village Artifact Puzzles Karla Gerard Lively Landscape,Artifact,,164.0,221.0,A-Easy,A-Easy,2.0,1.0,1.0
+559,Artifact Puzzles Manet Crystal Vase Artifact Puzzles Karla Gerard Night Village,Artifact,,167.0,164.0,Average,Average,2.0,2.0,2.0
+560,Artifact Puzzles Nicolas Roerich Varangians Artifact Puzzles Pursuit of Happiness,Artifact,,72.0,185.0,Average,A-Easy,2.0,2.0,1.0
+561,Artifact Puzzles Paul Klee Fish Magic Artifact Puzzles After The Tiger Hunt,Artifact,,254.0,373.0,Hard,Really-Hard,2.0,3.0,4.0
+562,Artifact Puzzles Piero Cosimo Andromeda  Artifact Puzzles Kevin Sloan The Worrier,Artifact,,411.0,427.0,Hard,Average,2.0,3.0,2.0
+563,Artifact Puzzles Piet Mondrian Artifact Puzzles Bizarre Fish,Artifact,,153.0,98.0,Really-Hard,Average,2.0,4.0,2.0
+564,Artifact Puzzles Rachel Pedder-Smith Abandoned Garden Artifact Puzzles Bee Eater,Artifact,,296.0,439.0,A-Easy,Average,2.0,1.0,2.0
+565,Artifact Puzzles Roch Urbaniak Unexpected Visitor Artifact Puzzles Lucas Cranach the Elder Hunting at Hartenfels Castle,Artifact,,303.0,349.0,Average,Average,2.0,2.0,2.0
+566,Artifact Puzzles Sorolla Valencia Artifact Puzzles Monet Bridge ,Artifact,,150.0,156.0,A-Easy,Hard,2.0,1.0,3.0
+567,Artifact Puzzles Tomasz Pietrzyk Clocks Double-Sided Ecru Puzzles Emily Carr Tanoo,Artifact,Ecru,148.0,117.0,Hard,Hard,2.0,3.0,3.0
+568,Artifact Puzzles Viktor Vasnetsov Sleeping Princess Artifact Puzzles Tomasz Pietrzyk Circle of Time,Artifact,,137.0,220.0,A-Easy,A-Easy,2.0,1.0,1.0
+569,Artistry Puzzles Great Horned Owl Mosaic Puzzles An Afternoon in Venice,Other-Laser-cut,,556.0,250.0,Hard,A-Easy,2.0,3.0,1.0
+570,DaVici Puzzles Flying Frigate DaVici Puzzles Hobby Horse,DaVici,,130.0,165.0,A-Easy,A-Easy,2.0,1.0,1.0
+571,DaVici Puzzles Millenium Tree ,DaVici,,1098.0,,Hard,,1.0,3.0,
+572,DaVici Puzzles Sergey Adeev Winter is Just Around The Corner DaVici Puzzles Vladimir Zhdanov Lilac House,DaVici,,260.0,160.0,A-Easy,A-Easy,2.0,1.0,1.0
+573,Ecru Puzzles Amedeo Modigliani Madame Zborowska Wooden Jigsaw Ecru Puzzles Amedeo Modigliani Red Scarf Wooden Jigsaw Puzzle,Ecru,,120.0,100.0,A-Easy,Average,2.0,1.0,2.0
+574,Ecru Puzzles Erin Hanson Cypress Lights Artifact Puzzles Vincent Van Gogh Two Figures In the Undergrowth,Artifact,Ecru,398.0,446.0,Hard,Hard,2.0,3.0,3.0
+575,Ecru Puzzles Mystery Puzzle #16 Artifact Puzzles Jethro Buck Wild Things,Artifact,Ecru,331.0,530.0,Hard,Hard,2.0,3.0,3.0
+576,Ecru Puzzles Mystery Puzzle #17 Ecru Puzzles Mystery Puzzle #23,Ecru,,300.0,447.0,A-Easy,Hard,2.0,1.0,3.0
+577,Ecru Puzzles Mystery Puzzle #22 Artifact Puzzles  Abu al-Hasan Squirrels,Artifact,Ecru,247.0,155.0,Hard,Average,2.0,3.0,2.0
+578,Ecru Puzzles Richard Friend Limberlost Woods Ecru Puzzles Mystery Puzzle #15,Ecru,,355.0,357.0,Hard,Average,2.0,3.0,2.0
+579,Ecru Puzzles Ton Dubbeldam Provence Revisited Ecru Puzzles Mystery Puzzle #17,Ecru,,293.0,280.0,Average,A-Easy,2.0,2.0,1.0
+580,Liberty Puzzles Andreas Schelfhout Skating in Holland Liberty Puzzles Currier and Ives Central Park Winter,Liberty,,493.0,535.0,Average,Hard,2.0,2.0,3.0
+581,Liberty Puzzles David Newton Winterlands Liberty Puzzles Rebecca Campbell The Good Life is On the Way,Liberty,,524.0,518.0,Hard,Average,2.0,3.0,2.0
+582,Liberty Puzzles Dr. Seuss A Plethora of Fish ,Liberty,,470.0,,Average,,1.0,2.0,
+583,Liberty Puzzles Duke Beardsley Rompecabezas Liberty Puzzles Vogue Cover November 1911,Liberty,,543.0,331.0,Average,Average,2.0,2.0,2.0
+584,Liberty Puzzles Hawaiian Islands ,Liberty,,739.0,,Hard,,1.0,3.0,
+585,Liberty Puzzles Jan-Loup Grand Circuit Des Capitales ,Liberty,,739.0,,Hard,,1.0,3.0,
+586,Liberty Puzzles Linda Israel Troublesome Moose ,Liberty,,517.0,,Hard,,1.0,3.0,
+587,Liberty Puzzles Linnea Pergola Barcelona ,Liberty,,673.0,,Hard,,1.0,3.0,
+588,Liberty Puzzles Linnea Pergola Florence ,Liberty,,591.0,,Average,,1.0,2.0,
+589,Liberty Puzzles Linnea Pergola Machu Picchu ,Liberty,,670.0,,Average,,1.0,2.0,
+590,Liberty Puzzles Linnea Pergola Portofino Italy Ecru Puzzles Allen Gilbert Cram Fishermans Cottage,Ecru,Liberty,630.0,158.0,Average,Average,2.0,2.0,2.0
+591,Liberty Puzzles Lisa Graa Jensen Snowbirds Liberty Puzzles Leon Morrocco Fisherman Jetty Antibes,Liberty,,528.0,468.0,A-Easy,A-Easy,2.0,1.0,1.0
+592,Liberty Puzzles Phil Lewis Foxy Liberty Puzzles Henri Matisse The Pink Tablecloth,Liberty,,406.0,278.0,Average,Average,2.0,2.0,2.0
+593,Liberty Puzzles Pieter Bruegel the Elder The Battle of Carnival and Lent ,Liberty,,707.0,,Hard,,1.0,3.0,
+594,Liberty Puzzles Sue Coccia Frog ,Liberty,,498.0,,Average,,1.0,2.0,
+595,Liberty Puzzles Sue Coccia Great Horned Owl XS Nervous Systems Geode Puzzle,Liberty,Other-Laser-cut,97.0,173.0,A-Easy,Hard,2.0,1.0,3.0
+596,Liberty Puzzles United Nations Tour of Jordan,Liberty,,239.0,200.0,A-Easy,A-Easy,2.0,1.0,1.0
+597,Mosaic Puzzles 18th Century French Tapestry Stave Puzzles All Shook Up,Stave,Other-Laser-cut,250.0,90.0,A-Easy,Hard,2.0,1.0,3.0
+598,Mr. Gogo Puzzles 24 hours Mr. Gogo Puzzles Gnome World,Other-Hand-cut,,300.0,350.0,Average,Average,2.0,2.0,2.0
+599,Mr. Gogo Puzzles Alphonse Mucha The Precious Stones ,Other-Hand-cut,,726.0,,A-Easy,,1.0,1.0,
+600,Mr. Gogo Puzzles Alphonse Mucha Times of the Day ,Other-Hand-cut,,750.0,,Hard,,1.0,3.0,
+601,Nautilus Puzzles Chholing Taha Blessing of the Polar Bears ,Nautilus,,475.0,,A-Easy,,1.0,1.0,
+602,Nautilus Puzzles Claude Monet Waterlilies Nautilus Puzzles Claude Monet Springtime,Nautilus,,237.0,243.0,Average,Average,2.0,2.0,2.0
+603,Nautilus Puzzles Gustav Klimt The Kiss ,Nautilus,,371.0,,Average,,1.0,2.0,
+604,Nautilus Puzzles Hello Angel Up ,Nautilus,,450.0,,Average,,1.0,2.0,
+605,Nautilus Puzzles Henri Rousseau The Dream ,Nautilus,,693.0,,Hard,,1.0,3.0,
+606,Nautilus Puzzles Liberty Eugene Delacroix Liberty Leading the People ,Liberty,,466.0,,Hard,,1.0,3.0,
+607,Nautilus Puzzles Oxana Zaika Midnight Falcon  ,Nautilus,,373.0,,Hard,,1.0,3.0,
+608,Nautilus Puzzles Oxana Zaika Summer Cat ,Nautilus,,533.0,,Hard,,1.0,3.0,
+609,Nautilus Puzzles Paul Klee Fish Magic ,Nautilus,,450.0,,Really-Hard,,1.0,4.0,
+610,Nautilus Puzzles Van Gogh Trip to Auvers Nautilus Puzzles William Herbert Dunton The Trail Foreman,Nautilus,,302.0,181.0,Average,Average,2.0,2.0,2.0
+611,Nautilus Puzzles Zodiac Rainbow ,Nautilus,,500.0,,Average,,1.0,2.0,
+612,Nautilus Vincent Van Gogh Rowing Boats on the Bank of the Oise ,Nautilus,,434.0,,Average,,1.0,2.0,
+613,Nervous System Rainbow Puzzle Nervous System Earth Puzzle,Other-Laser-cut,,380.0,441.0,A-Easy,Really-Hard,2.0,1.0,4.0
+614,Nervous Systems Puzzles Agate Puzzle Number 133 Unidragon Puzzles Emanating Raccoon,Other-Laser-cut,,171.0,315.0,Average,Average,2.0,2.0,2.0
+615,Stumpcraft Julien Deval Malediction ,Other-Laser-cut,,472.0,,Hard,,1.0,3.0,
+616,Stumpcraft Mandy Budan Falling ,Other-Laser-cut,,460.0,,Average,,1.0,2.0,
+617,Stumpcraft Melissa McKinnon Bursting Blooms Whimsy Puzzles Bouquet of Flowers,Other-Laser-cut,,345.0,350.0,Hard,Hard,2.0,3.0,3.0
+618,Stumpcraft Puzzles Tom Thomson Soft Maple in Autumn ,Other-Laser-cut,,408.0,,Hard,,1.0,3.0,
+619,"Victory Puzzles Gay Harbour, Cornwall (Vintage 1950s) Silverton Puzzle Company Garden Scene in Brittany",Other-Hand-cut,,350.0,300.0,Average,Average,2.0,2.0,2.0
+620,Wentworth Puzzles Clair Rossiter Spring Market ,Wentworth,,1000.0,,A-Easy,,1.0,1.0,
+621,Wentworth Puzzles Claire Comerford Spring Garden Wentworth Puzzles Clair Rossiter Spring Market,Wentworth,,500.0,500.0,A-Easy,A-Easy,2.0,1.0,1.0
+622,Wentworth Puzzles Elena Kotliarker Hannukah in the Magic Garden Wentworth Puzzles Colin Thompson Bookshelf,Wentworth,,250.0,500.0,Hard,A-Easy,2.0,3.0,1.0
+623,Wentworth Puzzles Filippo Cardu Blooming Wolf Wentworth Puzzles Hello Angel Scaling New Heights,Wentworth,,185.0,250.0,Average,A-Easy,2.0,2.0,1.0
+624,Wentworth Puzzles Garry Walton Greatest Bookshop in the World ,Wentworth,,1000.0,,Average,,1.0,2.0,
+625,Wentworth Puzzles Holbein The Ambassadors Wentworth Puzzles Antwerpen-Centraal Railway Station Belgium,Wentworth,,230.0,250.0,A-Easy,A-Easy,2.0,1.0,1.0
+626,Wentworth Puzzles Jan Patrik Krasny Leopard in Jungle Wentworth Puzzles Rosiland Solomon Peacock of India,Wentworth,,250.0,250.0,Average,Average,2.0,2.0,2.0
+627,Wentworth Puzzles Joy Laforme Park Avenue Wentworth Puzzles Spring Sakura,Wentworth,,500.0,500.0,A-Easy,A-Easy,2.0,1.0,1.0
+628,Wentworth Puzzles Kilimanjaro Morning Wentworth Puzzles Paul Gauguin Arearea,Wentworth,,250.0,250.0,Average,Average,2.0,2.0,2.0
+629,Wentworth Puzzles Macneil Studio Amsterdam Wentworth Puzzles Assaf Frank Summer at the Pub,Wentworth,,250.0,500.0,A-Easy,A-Easy,2.0,1.0,1.0
+630,Wentworth Puzzles Monet Le Pont Japonais ,Wentworth,,1000.0,,Hard,,1.0,3.0,
+631,Wentworth Puzzles Nanook of the North Wentworth Puzzles Penguin Huddle,Wentworth,,250.0,250.0,Average,Average,2.0,2.0,2.0
+632,Wentworth Puzzles Ocean Wentworth Puzzles World Wonders,Wentworth,,250.0,250.0,Average,Average,2.0,2.0,2.0
+633,Wentworth Puzzles Rebecca McCulloch Harbour Houses ,Wentworth,,1000.0,,A-Easy,,1.0,1.0,
+634,Wentworth Puzzles Royce McClure Sky Roads DaVici Puzzles Sergey Adeev Flying Frigate,DaVici,Wentworth,500.0,130.0,A-Easy,A-Easy,2.0,1.0,1.0
+635,Wentworth Puzzles Spring Flowers and Poole Pottery ,Wentworth,,1000.0,,Average,,1.0,2.0,
+636,Wentworth Puzzles Van Gogh Almond Blossom Wentworth Puzzles Zebo Ludvicek Birdcages,Wentworth,,500.0,500.0,Hard,A-Easy,2.0,3.0,1.0
+637,Wentworth Puzzles Wallace and Gromit Christmas Cake Wentworth Puzzles Wallace and Gromit Christmas,Wentworth,,500.0,500.0,Average,Average,2.0,2.0,2.0
+638,Wentworth Puzzles Westminster at Christmas ,Wentworth,,1000.0,,Average,,1.0,2.0,
+639,Whimsy Puzzles Christy Moeller Cat Girl Hartmaze Puzzles Owl ,Other-Laser-cut,,450.0,209.0,Average,Average,2.0,2.0,2.0
+640,Zen Puzzles Found Love Crow Prints Puzzles Portobello Road,Other-Hand-cut,Other-Laser-cut,298.0,288.0,Average,A-Easy,2.0,2.0,1.0
+641,Ecru Puzzles Richard Friend A Favorite Place Ecru Puzzles Tomasz Pietrzyk Family House,Ecru,,141.0,185.0,A-Easy,A-Easy,2.0,1.0,1.0
+642,Liberty Puzzles Haeckel Hummingbirds Nautilus Puzzles Mother Adams,Liberty,Nautilus,485.0,222.0,Average,Average,2.0,2.0,2.0
+643,Artifact Puzzles - William Glackens Cape Cod Pier Artifact Puzzles Julius LeBlanc Stewart Yachting,Artifact,,139.0,319.0,Average,Hard,2.0,2.0,3.0
+644,Artifact Puzzles - Michelle Morin Hummingbirds Artifact Puzzles Joseph Henry Sharp Medicine Teepee,Artifact,,287.0,105.0,Really-Hard,A-Easy,2.0,4.0,1.0
+645,Artifact Puzzles APAK Celebrating Nature Artifact Puzzles Justin Hillgrove Creature Ladder,Artifact,,412.0,187.0,Hard,A-Easy,2.0,3.0,1.0
+646,Artifact Puzzles APAK Islands Of Life Artifact Puzzles Tyukanov Uprising of the Sausages,Artifact,,165.0,360.0,A-Easy,Hard,2.0,1.0,3.0
+647,Artifact Puzzles Bruce Riley Stem Cell Artifact Puzzles APAK Islands Of Life,Artifact,,191.0,165.0,Average,A-Easy,2.0,2.0,1.0
+648,Artifact Puzzles Bruegel Netherlandish Proverbs Artifact Puzzles Edward Hopper Soir Bleu,Artifact,,317.0,168.0,Hard,Average,2.0,3.0,2.0
+649,Artifact Puzzles Bruegel Netherlandish Proverbs Artifact Puzzles Jeyselle Solentiname,Artifact,,317.0,319.0,Hard,Really-Hard,2.0,3.0,4.0
+650,Artifact Puzzles Gore Icknield Way Artifact Puzzles Kevin Sloan The Gift Arrives,Artifact,,317.0,344.0,Average,A-Easy,2.0,2.0,1.0
+651,Artifact Puzzles Iwona Lifsches Santa Claus Delivery Wentworth Puzzles Do not Disturb ,Artifact,Wentworth,158.0,250.0,A-Easy,Hard,2.0,1.0,3.0
+652,Artifact Puzzles Paul Ranson Flowers Double Sided Artifact Puzzles Rachel Pedder Smith Herbarium,Artifact,,185.0,79.0,Hard,Hard,2.0,3.0,3.0
+653,Artifact Puzzles Randal Spangler Computer Catastrophes Artifact Puzzles Bruce Riley Stem Cell,Artifact,,182.0,191.0,A-Easy,Hard,2.0,1.0,3.0
+654,Artifact Puzzles Severin Roesen Flower Still Life Artifact Puzzles Haeckel Hummingbirds,Artifact,,330.0,262.0,Average,A-Easy,2.0,2.0,1.0
+655,Artifact Puzzles Tom Kidd Dunne Estates Artifact Puzzles Old Venice Map,Artifact,,423.0,91.0,Average,Hard,2.0,2.0,3.0
+656,Artifact Puzzles Tyson Grumm Slacking Pandas Artifact Puzzles Utagawa Kuniyoshi Cats,Artifact,,224.0,258.0,A-Easy,Hard,2.0,1.0,3.0
+657,Artifact Puzzles Tyson Grumm The Sleepover Artifact Puzzles Paul Bond The Yogi,Artifact,,405.0,310.0,A-Easy,A-Easy,2.0,1.0,1.0
+658,Artifact Puzzles Tyukanov Uprising of the Sausages Artifact Puzzles Karla Gerard Lively Landscape,Artifact,,360.0,221.0,Hard,Average,2.0,3.0,2.0
+659,Artifact Puzzles Van Gogh De Sterrennacht  Artifact Puzzles Kathryn Freeman The Sunday Paper Wooden,Artifact,,336.0,177.0,Hard,Average,2.0,3.0,2.0
+660,Artifact Puzzles Van Gogh Sea at Saintes-Maries Artifact Puzzles Simon de Myle Noahs Ark,Artifact,,211.0,100.0,Hard,Hard,2.0,3.0,3.0
+661,Artifact Puzzles Van Os Flowers Ecru Puzzles Erin Hanson Hues of Zion,Artifact,Ecru,126.0,219.0,Hard,Hard,2.0,3.0,3.0
+662,Ecru Puzzles Patricia Hopwood Wade Snowbirds Artifact Puzzles Kevin Sloan Naughty Bird,Artifact,Ecru,209.0,270.0,Hard,Average,2.0,3.0,2.0
+663,Ecru Roch Urbaniak Bosfor Artifact Puzzles Seurat Eiffel Tower,Artifact,Ecru,214.0,135.0,Hard,Average,2.0,3.0,2.0
+664,Nautilus Puzzles  Prague Clock ,Nautilus,,500.0,,Average,,1.0,2.0,
+665,Nautilus Puzzles Stan The Man ,Nautilus,,250.0,,A-Easy,,1.0,1.0,
+666,Puzzlewood Handmade Puzzles Map of Europe Zen Puzzles Lion,Other-Hand-cut,Other-Laser-cut,167.0,159.0,A-Easy,Average,2.0,1.0,2.0
+667,Wemtworth Puzzles Neuschwanstein Castle Wentworth Puzzles London The Thames,Wentworth,,250.0,250.0,Average,Average,2.0,2.0,2.0
+668,Wentworth Puzzles Egg-stremely Difficult Wentworth Puzzles Penguin Pandemonium,Wentworth,,287.0,231.0,Average,Average,2.0,2.0,2.0
+669,Wentworth Puzzles Green Fingers ,Wentworth,,750.0,,Average,,1.0,2.0,
+670,Wentworth Puzzles Three Wise Men Whimsy Puzzles Second Date,Wentworth,Other-Laser-cut,250.0,350.0,Average,Average,2.0,2.0,2.0
+671,Artifact Puzzles Angie Rees Happy Harbor Ecru Puzzles Iwona Lifsches Weekend in Sommersby,Artifact,Ecru,281.0,355.0,A-Easy,A-Easy,2.0,1.0,1.0
+672,Artifact Puzzles Allie Sullberg Lets Dance Artifact Puzzles Kevin Sloan Welcome to the Wilderness,Artifact,,367.0,418.0,A-Easy,Average,2.0,1.0,2.0
+673,Artifact Puzzles Alceste Campriani Pappagalli Artifact Puzzles Autumn Egrets,Artifact,,201.0,130.0,Average,Average,2.0,2.0,2.0
+674,Artifact Puzzles Angie Rees The Skating Party Artifact Puzzle Tom Kidd Dunne Estates,Artifact,,502.0,423.0,Average,A-Easy,2.0,2.0,1.0
+675,Artifact Puzzles Charles Courtney Curran Lotus Lilies Artifact Puzzles - Jim Flora Big Bank Robbery,Artifact,,329.0,302.0,Average,A-Easy,2.0,2.0,1.0
+676,Artifact Puzzles Edward Hopper Chop Suey Artifact Puzzles Edward Hopper Nighthawks ,Artifact,,346.0,374.0,A-Easy,A-Easy,2.0,1.0,1.0
+677,Artifact Puzzles Edward Hopper Chop Suey Ecru Puzzles Nico Klopp Martigues,Artifact,Ecru,300.0,300.0,A-Easy,Hard,2.0,1.0,3.0
+678,Artifact Puzzles Geoffrey Gersten Poker Tree Artifact Puzzles Rekunenko Charming Village,Artifact,,288.0,282.0,A-Easy,A-Easy,2.0,1.0,1.0
+679,Artifact Puzzles Jim Flora Chioggia Ecru Puzzles Scott Gustafson Belling The Cat,Artifact,Ecru,359.0,364.0,A-Easy,Hard,2.0,1.0,3.0
+680,Artifact Puzzles Karla Gerard By The Sea Ecru Puzzles Grant Haffner Sunset on Old Montauk Highway,Artifact,Ecru,356.0,282.0,A-Easy,A-Easy,2.0,1.0,1.0
+681,Artifact Puzzles Kristian Adam Jacuzzi Boyz Ecru Puzzles Kristian Adam Pizza Boyz,Artifact,Ecru,283.0,387.0,A-Easy,A-Easy,2.0,1.0,1.0
+682,Artifact Puzzles Patricio Betteo Outsider Insider Artifact Puzzles Karla Gerard Night Song,Artifact,,409.0,321.0,Average,A-Easy,2.0,2.0,1.0
+683,Artifact Puzzles Seurat Grande Jatte Artifact Puzzles Joe Vaux Fishing Village,Artifact,,428.0,254.0,Average,A-Easy,2.0,2.0,1.0
+684,Artifact Puzzles Tomasz Pietrzyk Romeo and Juliet Artifact Puzzles Kevin Sloan Our Gentle Giant,Artifact,,424.0,326.0,Average,Hard,2.0,2.0,3.0
+685,Ecru Puzzles - Tomasz Pietrzyk Family House Ecru Puzzles Allen Gilbert Cram Fishermans Cottages,Ecru,,185.0,158.0,A-Easy,Average,2.0,1.0,2.0
+686,Ecru Puzzles Allen Gilbert Cram Fishermans Cottages Artifact Puzzles Tom Kidd Dunne Estates,Artifact,Ecru,158.0,423.0,Average,Average,2.0,2.0,2.0
+687,Ecru Puzzles Erin Hanson Cypress Lights Ecru Puzzles Richard Friend Limberlost,Ecru,,398.0,355.0,Hard,Average,2.0,3.0,2.0
+688,Ecru Puzzles Grant Haffner Sunset on Old Montauk Highway Ecru Puzzles - Richard Friend A Favorite Place,Ecru,,282.0,142.0,A-Easy,A-Easy,2.0,1.0,1.0
+689,Ecru Puzzles Iris Scott The Discussion Ecru Puzzles Nico Klopp Martigues,Ecru,,197.0,302.0,Average,Hard,2.0,2.0,3.0
+690,Ecru Puzzles Kawase Hasui Fall Ecru Puzzles Hokusai Wave,Ecru,,135.0,327.0,A-Easy,Average,2.0,1.0,2.0
+691,Ecru Puzzles Kristian Adam Pizza Boyz Ecru Puzzles Richard Friend Limberlost Woods,Ecru,,387.0,355.0,A-Easy,A-Easy,2.0,1.0,1.0
+692,Ecru Puzzles Mystery Puzzle #15 Ecru Puzzles Mystery Puzzle #16,Ecru,,357.0,331.0,Average,Hard,2.0,2.0,3.0
+693,Liberty Puzzles World Map ,Liberty,,1017.0,,Hard,,1.0,3.0,
+694,Matt Lyon Monastery Jim Flora Big Bank Robbery,Artifact,,460.0,302.0,Average,Hard,2.0,2.0,3.0
+695,Nautilus Puzzles Arnold Bocklin Isle Of The Dead ,Nautilus,,510.0,,Hard,,1.0,3.0,
+696,Nautilus Puzzles James Sommerville Ocean Life ,Nautilus,,475.0,,Average,,1.0,2.0,
+697,Nautilus Puzzles Mandala Stones ,Nautilus,,432.0,,Hard,,1.0,3.0,
+698,Nautilus Puzzles Marin Headlands ,Nautilus,,475.0,,Average,,1.0,2.0,
+699,Nautilus Puzzles Once Upon a Fairytale ,Nautilus,,428.0,,A-Easy,,1.0,1.0,
+700,Nautilus Puzzles Steve Skelton Space Colony ,Nautilus,,522.0,,Average,,1.0,2.0,
+701,Nautilus Puzzles The Baja Trail ,Nautilus,,500.0,,Average,,1.0,2.0,
+702,Stumpcraft Puzzles Monique Munoz We Are The Lotus Kids ,Other-Laser-cut,,888.0,,Hard,,1.0,3.0,
+703,Liberty Puzzles Gustav Klimt Garden Path With Chickens Liberty Puzzles Van Gogh Starry Night,Liberty,,495.0,465.0,Hard,Hard,2.0,3.0,3.0
+704,DaVici Josephine Wall Winter Dreaming ,DaVici,,400.0,,Average,,1.0,2.0,
+705,Thom Spencer Four Palettes Artifact Puzzles Simon De Myle Noah Ark,Artifact,Other-Hand-cut,101.0,100.0,Hard,Hard,2.0,3.0,3.0
+706,DaVici Puzzles Dmitry Alekseev Biscuit Mountain DaVici Puzzles Sergey Adeev Flying Frigate,DaVici,,170.0,130.0,A-Easy,A-Easy,2.0,1.0,1.0
+707,DaVici Puzzles Nadezhda Strelkina Peace On Earth ,DaVici,,695.0,,Average,,1.0,2.0,
+708,DaVici Puzzles Russian Circus Artifact Puzzles Vikram Madan Night Of The Mystic Moons,Artifact,DaVici,330.0,338.0,A-Easy,A-Easy,2.0,1.0,1.0
+709,DaVici Puzzles Russian Tryptych ,DaVici,,1000.0,,Hard,,1.0,3.0,
+710,DaVici Yana Fefelova Christmas Angel DaVici Josephine Wall Winter Dreaming,DaVici,,250.0,400.0,A-Easy,Average,2.0,1.0,2.0
+711,Ecru Puzzles Mystery Puzzle #21 Artifact Puzzles Allen Douglas The Kraken,Artifact,Ecru,181.0,219.0,Average,Hard,2.0,2.0,3.0
+712,Mr. Gogo Puzzles Alphonse Mucha Beechers ,Other-Hand-cut,,750.0,,A-Easy,,1.0,1.0,
+713,Mr. Gogo Puzzles Alphonse Mucha Job Cigarettes ,Other-Hand-cut,,400.0,,Hard,,1.0,3.0,
+714,Mr. Gogo Puzzles Alphonse Mucha Reverie  ,Other-Hand-cut,,400.0,,Average,,1.0,2.0,
+715,Mr. Gogo Puzzles Hypnosis ,Other-Hand-cut,,472.0,,Really-Hard,,1.0,4.0,
+716,Mr. Gogo Puzzles Just A Challenge Mr. Gogo Puzzles Lucky Flower ,Other-Hand-cut,,264.0,269.0,Hard,Average,2.0,3.0,2.0
+717,Puzzlewood Puzzles Mangula Flock Of Birds ,Other-Hand-cut,,376.0,,Really-Hard,,1.0,4.0,
+718,Snowflake Puzzles Portrait of an Elizabethan Woman ,Other-Hand-cut,,451.0,,Hard,,1.0,3.0,
+719,Stumpcraft Kim Smith Happy Holidays ,Other-Laser-cut,,360.0,,Average,,1.0,2.0,
+720,Thom Spencer Knobbed Polygons Artifact Puzzles Geoffrey Gersten In Dreams,Artifact,Other-Hand-cut,44.0,116.0,Average,Hard,2.0,2.0,3.0
+721,Artifact Puzzles Viktor Molev The Aviator Artifact Puzzles Eric Joyner Tiki Misadventure,Artifact,,383.0,540.0,Average,A-Easy,2.0,2.0,1.0
+722,Artifact Puzzles Isabelle Plante La Connaissance Artifact Puzzles Jonik Wizards Workshop,Artifact,,379.0,358.0,A-Easy,A-Easy,2.0,1.0,1.0
+723,Artifact Puzzles Vikram Madan Social Distancing Ecru Puzzles Kristian Adam Galapalooga Bay,Artifact,Ecru,228.0,291.0,Average,Average,2.0,2.0,2.0
+724,Artifact Puzzles Justin Hillgrove Word Travels South Artifact Puzzles Justin Hillgrove Word Travels West,Artifact,,456.0,548.0,A-Easy,Average,2.0,1.0,2.0
+725,Artifact Puzzles Albert Bierstadt Valley Of The Yosemite Ecru Puzzles Erin Hanson Hues Of Zion,Artifact,Ecru,494.0,219.0,Hard,Hard,2.0,3.0,3.0
+726,Artifact Puzzles Kevin Sloan Migration Of Knowledge Artifact Puzzles Paul Bond The Yogi,Artifact,,513.0,310.0,A-Easy,A-Easy,2.0,1.0,1.0
+727,Artifact Puzzles Joe Vaux Garden Of Earthly Delights ,Artifact,,619.0,,Average,,1.0,2.0,
+728,Artifact Puzzles Jethro Buck Reading On The Carpet Of Paradise ,Artifact,,378.0,,Hard,,1.0,3.0,
+729,Artifact Puzzles Rachell Sumpter Chinatown Quadtych ,Artifact,,1121.0,,Hard,,1.0,3.0,
+730,Artifact Puzzles Daniel Merriam On The Go (Discontinued Limited Edition) Artifact Puzzles Kevin Sloan The Gift Arrives,Artifact,,295.0,344.0,A-Easy,A-Easy,2.0,1.0,1.0
+731,Artifact Puzzles Daniel Merriam Tailspin (Discontinued Limited Edition) Artifact Puzzles Tom Kid McCay City (Discontinued),Artifact,,303.0,415.0,Hard,Hard,2.0,3.0,3.0
+732,Artifact Puzzles Daniel Merriam Tailspin (Discontinued Limited Edition) Ecru Puzzles Aaron Wolf The Kingdom,Artifact,Ecru,303.0,214.0,Average,Hard,2.0,2.0,3.0
+733,Artifact Puzzles Joe Vaux Season Of The Rabbit Artifact Puzzles Justin Hillgrove Mad Tea Party,Artifact,,300.0,206.0,A-Easy,A-Easy,2.0,1.0,1.0
+734,Artifact Puzzles Daniel Merriam Man In The Moon Ecru Puzzles Nicole Gustafson The Bookkeeper,Artifact,Ecru,357.0,372.0,Average,Average,2.0,2.0,2.0
+735,Artifact Puzzles Kathryn Freeman Lullaby For Lions Artifact Puzzles Jill Bennet Fantastic Mr. Fox,Artifact,,363.0,267.0,A-Easy,A-Easy,2.0,1.0,1.0
+736,Artifact Puzzles Edward Hopper Nighthawks  Artifact Puzzles Richard Friend The Just Reproach,Artifact,,374.0,396.0,Average,Average,2.0,2.0,2.0
+737,Artifact Puzzles Paul Bond Ode To A Zen Koan Artifact Puzzles John Henry Dearle Forest Tapestry,Artifact,,267.0,577.0,Average,Really-Hard,2.0,2.0,4.0
+738,Artifact Puzzles Iwona Lifsches Serenity Artifact Puzzles Tomasz Pietrzyk The Town,Artifact,,313.0,390.0,Average,Average,2.0,2.0,2.0
+739,Artifact Puzzles APAK Celebrating Nature Artifact Puzzles Angie Rees Precious Cargo,Artifact,,412.0,399.0,Hard,Average,2.0,3.0,2.0
+740,Artifact Puzzles Haeckel Sea Squirts Artifact Puzzles Joe Vaux Fishing Village,Artifact,,301.0,254.0,A-Easy,Hard,2.0,1.0,3.0
+741,Mr. Gogo Puzzles Alfonse Mucha Zodiac MrZs Puzzles Sugar Maples,Other-Hand-cut,,464.0,205.0,Average,Hard,2.0,2.0,3.0
+742,Ecru Puzzles Mystery Puzzle #19 Ecru Puzzles Mystery Puzzle #14,Ecru,,355.0,398.0,Average,Hard,2.0,2.0,3.0
+743,Ecru Puzzles Angela Gomes Monets Garden Ecru Puzzles Iwona Lifsches Weekend In Sommersby,Ecru,,214.0,355.0,Average,A-Easy,2.0,2.0,1.0
+744,Artifact Puzzles Van Gogh Bridge In The Rain Artifact Puzzles Brueghel Music Room,Artifact,,267.0,287.0,A-Easy,Average,2.0,1.0,2.0
+745,Artifact Puzzles Justin Hillgrove Word Travels West Ecru Puzzles Grant Haffner Sunset On Old Montauk Highway,Artifact,Ecru,548.0,282.0,Average,Average,2.0,2.0,2.0
+746,Artifact Puzzles Tyukanov Flying Bottle Artifact Puzzles Tom Kidd Dunne Estates,Artifact,,300.0,423.0,Average,Average,2.0,2.0,2.0
+747,Artifact Puzzles Karla Gerard By The Sea Artifact Puzzles Kevin Sloan Welcome To The Wilderness,Artifact,,356.0,418.0,A-Easy,Average,2.0,1.0,2.0
+748,Artifact Puzzles Vikram Madan Night Of The Mystic Moons Artifact Puzzles Vikram Madan Forecast Says Rain,Artifact,,338.0,370.0,A-Easy,Hard,2.0,1.0,3.0
+749,Artifact Puzzles - Bruce Riley Half Life Artifact Puzzles - Bruce Riley Stem Cell,Artifact,,336.0,191.0,Average,A-Easy,2.0,2.0,1.0
+750,Ecru Puzzles Jethro Buck Forest Ecru Puzzles Auguste Herbin Quai Du Port De Bastia,Ecru,,285.0,318.0,Average,Average,2.0,2.0,2.0
+751,Artifact Puzzles Kevin Sloan The Messenger Artifact Puzzles Tomasz Pietrzyk Circle Of Time,Artifact,,313.0,220.0,Average,Average,2.0,2.0,2.0
+752,Ecru Puzzles Aaron Wolf The Kingdom Artifact Puzzles Joe Vaux Big Fish Eat Little Fish,Artifact,Ecru,214.0,402.0,Hard,A-Easy,2.0,3.0,1.0
+753,Ecru Puzzles Franz Marc Cat Ecru Puzzles Patricia Hopwood-Wade Snowbirds,Ecru,,138.0,209.0,Really-Hard,Hard,2.0,4.0,3.0
+754,Artifact Puzzles Richard Friend The Just Reproach Artifact Puzzles Jim Flora Tenement K,Artifact,,396.0,436.0,Average,Average,2.0,2.0,2.0
+755,Artifact Puzzles Rachell Sumpter Islander Artifact Puzzles Paul Bond Octopus,Artifact,,262.0,140.0,A-Easy,A-Easy,2.0,1.0,1.0
+756,Mr. Gogo Puzzles Watermelon TurtleTeasers Melissa Lipton Colorado Aspens,Other-Hand-cut,,443.0,157.0,Really-Hard,Hard,2.0,4.0,3.0
+757,Snowflake Puzzles Magnificent Wave Snowflake Puzzles Autumn Forest,Other-Hand-cut,,350.0,350.0,Average,Average,2.0,2.0,2.0
+758,BCB Puzzles Henry Victor Lesur Marchands Des Fleurs Black Bear Puzzles In Search Of Sea,Other-Hand-cut,,300.0,350.0,Average,A-Easy,2.0,2.0,1.0
+759,Artifact Puzzles Susan Loy Bill Of Rights Artifact Puzzles Susan Loy Marriage Of Two Minds,Artifact,,303.0,255.0,Hard,Hard,2.0,3.0,3.0
+760,Artifact Puzzles Poynter Israel In Egypt Artifact Puzzles Bruegel Tower of Babel,Artifact,,310.0,377.0,Average,Hard,2.0,2.0,3.0
+761,Artifact Puzzles Kandinsky Far Away Artifact Puzzles Tyson Grumm Slacking Pandas,Artifact,,232.0,224.0,A-Easy,A-Easy,2.0,1.0,1.0
+762,Artifact Puzzles Tomasz Pietrzyk Romeo And Juliet Artifact Puzzles Victor Molev The Aviator,Artifact,,424.0,383.0,Average,Average,2.0,2.0,2.0
+763,Artifact Puzzles APAK Harmonious Kingdom Artifact Puzzles Martin Heade Two Hummingbirds At Nest,Artifact,,434.0,289.0,A-Easy,Average,2.0,1.0,2.0
+764,Artifact Puzzles Arreguin Jaguars ,Artifact,,505.0,,Hard,,1.0,3.0,
+765,Artifact Puzzles Edward Henry Potthast Brighton Beach Artifact Puzzles Van Gogh Boats,Artifact,,170.0,325.0,Average,Average,2.0,2.0,2.0
+766,Artifact Puzzles Valeriane Le Blonde Mis Mai Artifact Puzzles Edward Henry Potthast Brighton Beach,Artifact,,238.0,170.0,A-Easy,Hard,2.0,1.0,3.0
+767,Artifact Puzzles Renoir Oarsmen Artifact Puzzles Van Gogh Bedroom In Arles,Artifact,,297.0,347.0,Hard,Average,2.0,3.0,2.0
+768,Artifact Puzzles Diego Mazzeo Mechanical Griffin Artifact Puzzles Galaxy Trucker,Artifact,,207.0,198.0,A-Easy,A-Easy,2.0,1.0,1.0
+769,Artifact Puzzles Big San Francisco Literary Map Artifact Puzzles Roedig Flowers,Artifact,,367.0,293.0,A-Easy,A-Easy,2.0,1.0,1.0
+770,Artifact Puzzles William Gropper Folklore Map Artifact Puzzles Kirby Scudder Palo Alto Map,Artifact,,348.0,418.0,Average,Average,2.0,2.0,2.0
+771,Artifact Puzzles Karla Gerard Evening Stars Artifact Puzzles Susan Loy Bill Of Rights,Artifact,,644.0,303.0,A-Easy,Average,2.0,1.0,2.0
+772,Artifact Puzzles Qiu Ying Han Palace Artifact Puzzles Guiseppe Arcimboldo Vertumnus,Artifact,,423.0,314.0,Hard,Average,2.0,3.0,2.0
+773,Artifact Puzzles Daniel Merriam Flight of Scarlet Artifact Puzzles Tomasz Pietrzyk Red Towers,Artifact,,364.0,248.0,Really-Hard,Hard,2.0,4.0,3.0
+774,Artifact Puzzles Claire Henley Sailing Round The Mount Artifact Puzzles Angie Rees When Whales Set Sail,Artifact,,256.0,278.0,A-Easy,A-Easy,2.0,1.0,1.0
+775,Artifact Puzzles Jonik Rapunzel Artifact Puzzles Jonik Troll Toll,Artifact,,411.0,365.0,A-Easy,A-Easy,2.0,1.0,1.0
+776,Artifact Puzzles Isabelle Plante La Connaissance Artifact Puzzles Justin Hillgrove Word Travels West,Artifact,,379.0,548.0,Average,Average,2.0,2.0,2.0
+777,Artifact Puzzles Renoir Dance At Le Moulin De La Galette Artifact Puzzles Monet Woman With Parasol,Artifact,,347.0,357.0,Average,Average,2.0,2.0,2.0
+778,Artifact Puzzles Gustav Klimt The Kiss  Artifact Puzzles Tyson Grumm The Sleepover,Artifact,,338.0,405.0,Average,Average,2.0,2.0,2.0
+779,Artifact Puzzles Paul Bond The Yogi Artifact Puzzles Rachell Sumpter Islander,Artifact,,310.0,262.0,Hard,Hard,2.0,3.0,3.0
+780,Ecru Puzzles Nicole Gustafsson The Bookkeeper Artifact Puzzles Kevin Sloan Fragile Habitat,Artifact,Ecru,372.0,360.0,Hard,Average,2.0,3.0,2.0
+781,Artifact Puzzles Hopwood-Wade Emu Afternoon Tea Artifact Puzzles Tomasz Pietrzyk Romeo And Juliet,Artifact,,346.0,424.0,Average,Average,2.0,2.0,2.0
+782,Ecru Puzzles Erin Hanson Layers Of Afternoon Ecru Puzzles Erin Hanson Hues Of Zion,Ecru,,287.0,219.0,A-Easy,Average,2.0,1.0,2.0
+783,Artifact Puzzles Angie Rees The Skating Party Artifact Puzzles Vikram Madan North Star,Artifact,,505.0,480.0,Average,Average,2.0,2.0,2.0
+784,Artifact Puzzles Paul Klee Fish Magic Artifact Puzzles Vikram Madan Physical Impossibility,Artifact,,254.0,292.0,Hard,A-Easy,2.0,3.0,1.0
+785,Artifact Puzzles Gustav Klimt Death And Life Artifact Puzzles Breach Of Contract,Artifact,,361.0,268.0,Hard,A-Easy,2.0,3.0,1.0
+786,Artifact Puzzles Tyson Grumm The Sleepover Artifact Puzzles Audubun Carolina Parakeets,Artifact,,405.0,422.0,Average,Hard,2.0,2.0,3.0
+787,Artifact Puzzles Angie Rees The Carrot Artifact Puzzles Kozyndan Bunny Blossoms,Artifact,,304.0,380.0,A-Easy,Average,2.0,1.0,2.0
+788,Artifact Puzzles Monet Summer Artifact Puzzles Van Gogh De Sterrennacht,Artifact,,311.0,336.0,Average,Average,2.0,2.0,2.0
+789,Artifact Puzzles Bokuyo Forest  ,Artifact,,689.0,,Really-Hard,,1.0,4.0,
+790,Artifact Puzzles Some Enchanted Evening Artifact Puzzles Randal Spangler Fireside Fairytales,Artifact,,422.0,364.0,Average,Average,2.0,2.0,2.0
+791,Artifact Puzzles Rachell Sumpter Old Friend Artifact Puzzles Ito Jakuchu Plum Blossoms,Artifact,,290.0,311.0,Hard,Really-Hard,2.0,3.0,4.0
+792,Artifact Puzzles Erin Hanson Crystal Grove Artifact Puzzles Matt Lyon Monastery,Artifact,,357.0,460.0,Really-Hard,Hard,2.0,4.0,3.0
+793,Artifact Puzzles Gerome Carpet Merchant Artifact Puzzles Brueghel Noahs Ark,Artifact,,400.0,311.0,Average,A-Easy,2.0,2.0,1.0
+794,Artifact Puzzles Tomasz Pietrzyk Tall Tower Artifact Puzzles Justin Hillgrove Imps And Monsters,Artifact,,629.0,442.0,A-Easy,A-Easy,2.0,1.0,1.0
+795,Artifact Puzzles Rachell Sumpter Islander Artifact Puzzles Roch Urbaniak Sage Of Yamatai,Artifact,,262.0,346.0,Average,Hard,2.0,2.0,3.0
+796,Artifact Puzzles Bek Cruddace British Isles Map Artifact Puzzles Jim Flora Chioggia,Artifact,,493.0,359.0,A-Easy,A-Easy,2.0,1.0,1.0
+797,Artifact Puzzles Kevin Sloan Our Gentle Giant Artifact Puzzles APAK Islands Of Life,Artifact,,326.0,165.0,Hard,Hard,2.0,3.0,3.0
+798,Ecru Puzzles Edward Binkley Village Scene Ecru Puzzles Scott Gustafson Belling The Cat,Ecru,,309.0,364.0,Average,Average,2.0,2.0,2.0
+799,Artifact Puzzles Bill Carman Golden Whistle Artifact Puzzles Jim Flora Big Bank Robbery,Artifact,,318.0,302.0,Hard,Hard,2.0,3.0,3.0
+800,Ecru Puzzles Hokusai Wave Ecru Puzzles Rachell Sumpter Wild Moor,Ecru,,327.0,260.0,Hard,A-Easy,2.0,3.0,1.0
+801,CobbPodgery WPA Poster Let Them Grow DaVici My Child,DaVici,Other-Hand-cut,430.0,300.0,Average,Average,2.0,2.0,2.0
+802,Artifact Puzzles Eric Joyner Comrades Artifact Puzzles Joe Vaux Message In A Bottle,Artifact,,180.0,296.0,A-Easy,Average,2.0,1.0,2.0
+803,Artifact Puzzles Aaron Wolf Cathedral Of The Changing Tides Ecru Puzzles Erin Hanson Layers Of Afternoon,Artifact,Ecru,360.0,287.0,Hard,Average,2.0,3.0,2.0
+804,Artifact Puzzles Jonik Troll Toll Artifact Puzzles Eric Joyner Tiki Misadventure,Artifact,,365.0,540.0,A-Easy,A-Easy,2.0,1.0,1.0
+805,Artifact Puzzles Sophie Taeuber-Arp Composition Artifact Puzzles August Macke Turkish Cafe,Artifact,,302.0,478.0,Hard,Average,2.0,3.0,2.0
+806,Artifact Puzzles Justin Hillgrove Overwhelming Odds Artifact Puzzles Angie Rees Boobie Trapped,Artifact,,257.0,340.0,A-Easy,A-Easy,2.0,1.0,1.0
+807,Ecru Puzzles Maurice Denis Pittsburgh Sunset Ecru Puzzles Nicole Gustafsson The Bookkeeper,Ecru,,290.0,372.0,Hard,Hard,2.0,3.0,3.0
+808,Artifact Puzzles Hieronymus Bosch Garden Of Earthly Delights ,Artifact,,529.0,,Average,,1.0,2.0,
+809,Artifact Puzzles Allie Sullberg Lets Dance Ecru Puzzles Mystery Puzzle #21,Artifact,Ecru,367.0,181.0,Average,Average,2.0,2.0,2.0
+810,Artifact Puzzles Armand Point Unicorn Artifact Puzzles Sleeping Princess,Artifact,,111.0,137.0,A-Easy,A-Easy,2.0,1.0,1.0
+811,Artifact Puzzles Bikaner Elephants Artifact Puzzles Raoul Dufy Boats,Artifact,,170.0,136.0,A-Easy,A-Easy,2.0,1.0,1.0
+812,Artifact Puzzles Carl Larsson Holiday Reading Artifact Puzzles Dove Of The Holy Spirit,Artifact,,163.0,88.0,Average,Hard,2.0,2.0,3.0
+813,Artifact Puzzles Egon Schiele Four Trees Artifact Puzzles Autumn Egrets,Artifact,,79.0,130.0,Hard,Average,2.0,3.0,2.0
+814,Artifact Puzzles Eric Joyner Recaptcha Artifact Puzzles Nicoletta Ceccoli Love Will Tear Us Apart,Artifact,,150.0,181.0,A-Easy,A-Easy,2.0,1.0,1.0
+815,Artifact Puzzles Hokusai Dragon Artifact Puzzles Franz Marc 1912 Blue Horse,Artifact,,81.0,96.0,Really-Hard,Average,2.0,4.0,2.0
+816,Artifact Puzzles Kawase Hasui Fall Artifact Puzzles Justin Hillgrove Arcane Shelfie,Artifact,,135.0,121.0,Average,A-Easy,2.0,2.0,1.0
+817,Artifact Puzzles Kiyochika Persimmon Tree Artifact Puzzles Iwona Lifsches Afternoon Ride,Artifact,,81.0,121.0,A-Easy,A-Easy,2.0,1.0,1.0
+818,Artifact Puzzles Leighton Accolade Artifact Puzzles Birds at Baran,Artifact,,85.0,91.0,Average,Hard,2.0,2.0,3.0
+819,Artifact Puzzles Little Seamaid Artifact Puzzles Indian Palace,Artifact,,74.0,171.0,Average,Average,2.0,2.0,2.0
+820,Artifact Puzzles Rachel Pedder-Smith Herbarium Artifact Puzzles Kessel Butterflies,Artifact,,79.0,161.0,Really-Hard,Really-Hard,2.0,4.0,4.0
+821,Artifact Puzzles Randal Spangler Computer Catastrophes Artifact Puzzles Annya Kai Fabric Owls,Artifact,,182.0,156.0,A-Easy,A-Easy,2.0,1.0,1.0
+822,Artifact Puzzles Richard La Barre Goodwin Strawberries Artifact Puzzles Karla Gerard Dusk,Artifact,,157.0,147.0,Average,A-Easy,2.0,2.0,1.0
+823,Artifact Puzzles Tomasz Pietrzyk Cello Artifact Puzzles William Glackens Cape Cod Pier,Artifact,,165.0,139.0,A-Easy,Hard,2.0,1.0,3.0
+824,Artifact Puzzles Varangian Artifact Puzzles Tyukanov Cheshire Cat,Artifact,,72.0,162.0,A-Easy,Average,2.0,1.0,2.0
+825,Ecru Puzzles Awa Tsireh Animal Designs Ecru Puzzles Kawase Hasui Shiba Benten Pond,Ecru,,105.0,89.0,Really-Hard,Average,2.0,4.0,2.0
+826,Ecru Puzzles Winslow Homer Watching The Tide Ecru Puzzles Rachell Sumpter Brothers In Sport,Ecru,,166.0,179.0,Average,Hard,2.0,2.0,3.0
+827,Ecru Puzzles Rogier Van Der Weyden Saint George And The Dragon Ecru Puzzles Allen Gilbert Cram Fishermans Cottages,Ecru,,168.0,158.0,Average,A-Easy,2.0,2.0,1.0
+828,Ecru Puzzles Kawase Hasui Fall Artifact Puzzles Rachell Sumpter Old Friend,Artifact,Ecru,135.0,290.0,Average,Really-Hard,2.0,2.0,4.0
+829,Artifact Puzzles Victor Molev Tale Of The Lost Space Ecru Puzzles Aaron Wolf The Kingdom,Artifact,Ecru,303.0,214.0,Really-Hard,A-Easy,2.0,4.0,1.0
+830,Ecru Puzzles Ragamala Mughal Miniature Ecru Puzzles Mystery Puzzle #11,Ecru,,80.0,145.0,A-Easy,Hard,2.0,1.0,3.0
+831,DaVici Puzzles Anton Gorcevic I Had A Dream Once DaVici Puzzles Sergey Adeev Day and Night,DaVici,,350.0,280.0,A-Easy,A-Easy,2.0,1.0,1.0
+832,Ecru Puzzles Ton Dubbeldam Grand Italia Artifact Puzzles Allie Sullberg Lets Dance,Artifact,Ecru,270.0,367.0,A-Easy,Hard,2.0,1.0,3.0
+833,Artifact Puzzles Joe Vaux Big Fish Eat Little Fish Artifact Puzzles Victor Molev Tale Of The Lost Space,Artifact,,402.0,252.0,Hard,Really-Hard,2.0,3.0,4.0
+834,Artifact Puzzles Vikram Madan Caf-Fiend Artifact Puzzles Hoefnagel Pear,Artifact,,81.0,106.0,A-Easy,A-Easy,2.0,1.0,1.0
+835,Artifact Puzzles Justin Hillgrove Word Travels South Artifact Puzzles Kevin Sloan The Gift Arrives,Artifact,,456.0,344.0,A-Easy,A-Easy,2.0,1.0,1.0
+836,Artifact Puzzles Vikram Madan Social Distancing Artifact Puzzles Tyson Grumm Slacking Pandas,Artifact,,228.0,224.0,Average,A-Easy,2.0,2.0,1.0
+837,Artifact Puzzles Vikram Madan Birds Of A Feather Artifact Puzzles Hayley Lever Dancing Boats Marblehead,Artifact,,103.0,111.0,A-Easy,Hard,2.0,1.0,3.0
+838,Artifact Puzzles Angie Rees Boobie Trapped Artifact Puzzles Jonik Rapunzel,Artifact,,340.0,411.0,Average,Average,2.0,2.0,2.0
+839,Artifact Puzzles Tomasz Pietrzyk Tall Tower Artifact Puzzles Kevin Sloan Burden of Formality,Artifact,,629.0,432.0,Really-Hard,Hard,2.0,4.0,3.0
+840,Artifact Puzzles Dennis Brady Cercles Et Des Carres Artifact Puzzles Gaugin La Orana Maria,Artifact,,65.0,268.0,A-Easy,Hard,2.0,1.0,3.0
+841,Artifact Puzzles Kevin Sloan Migration Of Knowledge  Artifact Puzzles Gavin Watson Creature Comforts,Artifact,,513.0,322.0,A-Easy,A-Easy,2.0,1.0,1.0
+842,Artifact Puzzles Eric Joyner Indecision Artifact Puzzles Alceste Campriani Pappagalli,Artifact,,166.0,201.0,Average,Average,2.0,2.0,2.0
+843,Artifact Puzzles Tyukanov Uprising Of The Sausages Artifact Puzzles Munch The Scream,Artifact,,360.0,232.0,Average,Really-Hard,2.0,2.0,4.0
+844,Artifact Puzzles Georgia OKeefe Reflections Ecru Puzzles Rachel Sumpter Brothers In Sport,Artifact,Ecru,205.0,179.0,Hard,Average,2.0,3.0,2.0
+845,Artifact Puzzles Jonik Rapunzel Artifact Puzzles William Gropper Folklore Map,Artifact,,411.0,348.0,Average,Average,2.0,2.0,2.0
+846,Artifact Puzzles Seurat Grande Jatte Artifact Puzzles Klimt The Kiss ,Artifact,,428.0,338.0,Really-Hard,Hard,2.0,4.0,3.0
+847,Artifact Puzzles Haeckel Jellyfish Artifact Puzzles Matisse Flowers,Artifact,,198.0,166.0,A-Easy,A-Easy,2.0,1.0,1.0
+848,Artifact Puzzles Tyukanov Flying Bottle Artifact Puzzles Tyukanov Moon,Artifact,,300.0,300.0,Average,Hard,2.0,2.0,3.0
+849,Artifact Puzzles Joachim Patinir Crossing the River Styx Artifact Puzzles Ton Schulten Langs De Oever,Artifact,,168.0,134.0,Average,A-Easy,2.0,2.0,1.0
+850,Ecru Puzzles Van Gogh Almond Blossoms Ecru Puzzles Van Hulsdonck Lemons,Ecru,,210.0,232.0,Hard,Hard,2.0,3.0,3.0
+851,Artifact Puzzles Aaron Wolf Cathedral Of The Changing Tides Artifact Puzzles Jeyselle Solentiname Jungle,Artifact,,360.0,319.0,Hard,Hard,2.0,3.0,3.0
+852,Artifact Puzzles Joe Vaux Feathered Friends Artifact Puzzles Nicoletta Ceccoli Its My Party,Artifact,,134.0,216.0,Average,A-Easy,2.0,2.0,1.0
+853,Artifact Puzzles Dany Paragouteva Magic Carpet Artifact Puzzles Matte Stephens Central Park Fifth Avenue,Artifact,,305.0,439.0,Average,Hard,2.0,2.0,3.0
+854,Artifact Puzzles Joe Vaux Grass Is Greener Artifact Puzzles Justin Hillgrove Mad Tea Party,Artifact,,154.0,206.0,A-Easy,A-Easy,2.0,1.0,1.0
+855,Artifact Puzzles Karen Kunc Verse From Macrocosmica Artifact Puzzles Pablo Picasso The Stranded Fish,Artifact,,120.0,110.0,Hard,Average,2.0,3.0,2.0
+856,Artifact Puzzles Kevin Sloan The Worrier Artifact Puzzles Martin Heade Two Hummingbirds At Nest,Artifact,,427.0,289.0,A-Easy,Hard,2.0,1.0,3.0
+857,Artifact Puzzles Kessel Shells Artifact Puzzles Old Venice Map,Artifact,,54.0,91.0,Hard,Really-Hard,2.0,3.0,4.0
+858,Artifact Puzzles Roch Urbaniak Sage Of Yamatai Artifact Puzzles Angie Rees Boobie Trapped,Artifact,,346.0,340.0,Average,A-Easy,2.0,2.0,1.0
+859,Artifact Puzzles Nadiezda Nocturne Artifact Puzzles Vikram Madan Short-Lived Balloon,Artifact,,157.0,162.0,Average,Average,2.0,2.0,2.0
+860,Artifact Puzzles Randal Spangler Some Enchanted Evening Artifact Puzzles Justin Hillgrove Imps And Monsters,Artifact,,422.0,442.0,Really-Hard,A-Easy,2.0,4.0,1.0
+861,Ecru Puzzles Grant Haffner Sunset On Old Montauk Highway Ecru Puzzles Kristian Adam Galapalooga Bay,Ecru,,282.0,291.0,Average,A-Easy,2.0,2.0,1.0
+862,Artifact Puzzles Roch Urbaniak Bosfor Artifact Puzzles Andre Derain Les Voiles Rouges,Artifact,,214.0,143.0,Really-Hard,Average,2.0,4.0,2.0
+863,Ecru Puzzles William Penhallow Henderson Lucero Place Artifact Puzzles Georges Seurat Grand Jatte,Artifact,Ecru,385.0,482.0,Hard,Average,2.0,3.0,2.0
+864,DaVici Puzzles Diana Zimens City Of Cats ,DaVici,,700.0,,Average,,1.0,2.0,
+865,"Nikolyaaa Red Boats Wheelgiant Balancing Boulder, Northern Territory, Australia",Other-Hand-cut,Other-Laser-cut,249.0,425.0,Average,Average,2.0,2.0,2.0
+866,Artifact Puzzles Yuri Gorbachev Two Cats Artifact Puzzles Vladstudio Owl Internet Cafe,Artifact,,314.0,204.0,A-Easy,A-Easy,2.0,1.0,1.0
+867,"Nautilus Puzzles Mother Earth Nautilus Puzzles Antelope Canyon, Arizona",Nautilus,,222.0,181.0,Average,Average,2.0,2.0,2.0
+868,Artifact Puzzles Jethro Buck Wild Things ,Artifact,,539.0,,Hard,,1.0,3.0,
+869,Artifact Puzzles Nancy Bogni Olde Holland Artifact Puzzles Bruegel Netherlandish Proverbs,Artifact,,303.0,317.0,Hard,Hard,2.0,3.0,3.0
+870,Artifact Puzzles Kevin Sloan Burden of Formality Artifact Puzzles Nadiezda Night Ship,Artifact,,432.0,283.0,A-Easy,Average,2.0,1.0,2.0
+871,Ecru Puzzles Rachell Sumpter Wild Moor Artifact Puzzles Vikram Madan Night Of The Mystic Moons,Artifact,Ecru,260.0,338.0,Hard,Average,2.0,3.0,2.0
+872,Artifact Puzzles Fra Angelico Adoration Of The Magi Artifact Puzzles Iwona Lifsches Merry Christmas,Artifact,,208.0,242.0,Average,A-Easy,2.0,2.0,1.0
+873,Ecru Puzzles Layers Of Afternoon Ecru Puzzles William Penhallow Henderson Luceros Place,Ecru,,287.0,385.0,Average,A-Easy,2.0,2.0,1.0
+874,Ecru Puzzles William Penhallow Henderson Lucero Place Artifact Puzzles Jonik Rapunzel ,Artifact,Ecru,385.0,411.0,A-Easy,A-Easy,2.0,1.0,1.0
+875,Artifact Puzzles Fra Angelico Adoration Of The Magi Artifact Puzzles Eric Joyner Tiki Misadventure,Artifact,,208.0,540.0,Average,A-Easy,2.0,2.0,1.0
+876,Artifact Puzzles Jan Brueghel The Younger Music Room Artifact Puzzles Isabelle Plante La Connaissance,Artifact,,287.0,379.0,Average,Average,2.0,2.0,2.0
+877,Artifact Puzzles Outsider Insider Artifact Puzzles Sophie Taeuber-Arp Composition,Artifact,,409.0,302.0,Average,Average,2.0,2.0,2.0
+878,Artifact Puzzles Galaxy Trucker Artifact Puzzles Paul Bond Octopus,Artifact,,198.0,140.0,Average,Average,2.0,2.0,2.0
+879,Artifact Puzzles Utagawa Kuniyoshi Cats Artifact Puzzles Outsider Insider,Artifact,,258.0,409.0,Hard,Hard,2.0,3.0,3.0
+880,Artifact Puzzles Van Gogh Boats Artifact Puzzles Rekunenko Charming Village,Artifact,,325.0,282.0,Hard,A-Easy,2.0,3.0,1.0
+881,Artifact Puzzles Gore Icknield Way Artifact Puzzles Charles Courney Curran Lotus Lilies,Artifact,,317.0,329.0,A-Easy,Hard,2.0,1.0,3.0
+882,Ecru Puzzles Monet Springtime Ecru Puzzles Jonik Sunny November,Ecru,,328.0,369.0,A-Easy,A-Easy,2.0,1.0,1.0
+883,Artifact Puzzles Bruegel Fall of the Rebel Angels Artifact Puzzles Rosso Angelo,Artifact,,340.0,228.0,Average,Average,2.0,2.0,2.0
+884,Ecru Puzzles Jonik Sunny November Artifact Puzzles Jan Brueghel The Younger Noah Ark,Artifact,Ecru,369.0,311.0,Average,Average,2.0,2.0,2.0
+885,Artifact Puzzles Susan Loy Bill Of Rights Artifact Puzzles William Gropper Folklore Map,Artifact,,303.0,348.0,Really-Hard,Average,2.0,4.0,2.0
+886,Artifact Puzzles Karla Gerard Night Song Artifact Puzzles Dan Dos Santos Stalking the Unicorn,Artifact,,321.0,303.0,A-Easy,A-Easy,2.0,1.0,1.0
+887,Artifact Puzzles Peruvian Tapestry Artifact Puzzles Susan Loy Marriage Of Two Minds,Artifact,,268.0,255.0,Hard,Hard,2.0,3.0,3.0
+888,Artifact Puzzles Waterhouse Lady of Shalott Artifact Puzzles Piero Di Cosimo Liberazione Di Andromeda,Artifact,,347.0,411.0,Hard,Hard,2.0,3.0,3.0
+889,Artifact Puzzles Barnard Dragon Mountain Artifact Puzzles Angie Rees Happy Harbor,Artifact,,277.0,281.0,A-Easy,A-Easy,2.0,1.0,1.0
+890,Artifact Puzzles Gavin Watson Creature Comforts Artifact Puzzles Kevin Sloan Fragile Habitat,Artifact,,322.0,360.0,A-Easy,A-Easy,2.0,1.0,1.0
+891,Artifact Puzzles Kevin Sloan Our Gentle Giant Artifact Puzzles Kevin Sloan Consequences of Hypnosis,Artifact,,326.0,282.0,Hard,Hard,2.0,3.0,3.0
+892,Artifact Puzzles Geoffrey Gersten Poker Tree Artifact Puzzles Kevin Sloan Naughty Bird,Artifact,,288.0,270.0,A-Easy,A-Easy,2.0,1.0,1.0
+893,Artifact Puzzles Kirby Scudder Palo Alto Map Artifact Puzzles Iwona Lifsches Serenity,Artifact,,418.0,313.0,Hard,A-Easy,2.0,3.0,1.0
+894,Artifact Puzzles Jonik Troll Toll Artifact Puzzles Angie Rees Happy Harbor,Artifact,,365.0,281.0,A-Easy,Average,2.0,1.0,2.0
+895,Artifact Puzzles Susan Loy Bill Of Rights Artifact Puzzles Erin Hanson Crystal Grove,Artifact,,303.0,357.0,Hard,Really-Hard,2.0,3.0,4.0
+896,Artifact Puzzles Roch Urbaniak Sage Of Yamatai Artifact Puzzles Severin Roesen Flower Still Life,Artifact,,346.0,330.0,Average,Average,2.0,2.0,2.0
+897,Artifact Puzzles Great Robot Migration ,Artifact,,480.0,,Hard,,1.0,3.0,
+898,Artifact Puzzles Van Gogh Undergrowth With Two Figures Artifact Puzzles Allen Douglas The Kraken,Artifact,,446.0,219.0,Really-Hard,Really-Hard,2.0,4.0,4.0
+899,Ecru Puzzles Mystery Puzzle #18 Ecru Puzzles Scott Gustafson Belling The Cat,Ecru,,262.0,364.0,Average,Average,2.0,2.0,2.0
+900,Artifact Puzzles Van Gogh Sea At Saintes-Maries Artifact Puzzles Monet Summer,Artifact,,211.0,311.0,Hard,Hard,2.0,3.0,3.0
+901,Artifact Puzzles Matte Stephens Central Park Fifth Avenue Artifact Puzzles APAK Celebrating Nature,Artifact,,439.0,412.0,Average,Hard,2.0,2.0,3.0
+902,Artifact Puzzles Yuri Gorbachev Two Cats Artifact Puzzles Martin Heade Two Hummingbirds At Nest,Artifact,,314.0,289.0,A-Easy,Average,2.0,1.0,2.0
+903,Artifact Puzzles Tyukanov Moon Artifact Puzzles Jim Flora Tenement K,Artifact,,300.0,436.0,Average,Hard,2.0,2.0,3.0
+904,Artifact Puzzles Randal Spangler Fireside Fairytales Artifact Puzzles Diego Mazzeo Mechanical Griffin,Artifact,,364.0,207.0,A-Easy,Average,2.0,1.0,2.0
+905,Smyth Puzzles Mola Madness TurtleTeasers Peacock Closeup,Other-Hand-cut,,442.0,170.0,Really-Hard,A-Easy,2.0,4.0,1.0
+906,Artifact Puzzles Haeckel Hummingbirds Artifact Puzzles Guiseppe Arcimboldo Vertumnus,Artifact,,262.0,314.0,Average,Hard,2.0,2.0,3.0
+907,Ecru Puzzles Allen Gilbert Cram Fishermans Cottage Artifact Puzzles Georgia Okeefe Reflections,Artifact,Ecru,158.0,205.0,Average,Hard,2.0,2.0,3.0
+908,Artifact Puzzles Matt Lyon Monastery Artifact Puzzles Daniel Merriam Flight of Scarlet,Artifact,,460.0,364.0,Really-Hard,Really-Hard,2.0,4.0,4.0
