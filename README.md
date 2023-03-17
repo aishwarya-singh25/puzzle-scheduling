@@ -27,6 +27,11 @@ Our features revolved around a couple of core hypotheses:
   - hold_time_rolling_median - The median of the member's last 5 rentals (uses row ordering as temporal order)
   - global_hold_time_mean - The average rental period accross the entire training dataset
 
+## Best performing approach
+<img width="716" alt="Screenshot 2023-03-16 at 10 58 43 PM" src="https://user-images.githubusercontent.com/26069835/225824625-e539b7a1-0d18-4d7e-84b0-05b91081fde2.png">
+
+Our best performing approach involved splitting the user populations to maximize the ability to utilize past rental patterns. For the small subset of users with substantial history (>=75 past rentals) we found decent performance in predicting their next hold-time. To capitlize on this we fit our linear regression to these individuals alone with the hypothesis that fitting the model to just that user would allow a better representation of how puzzle features such as number of pieces and difficulty impacted that particular users hold time. For users without this quantity of history we tested two approaches. The first was to fit a linear regression model to the entire training set, assuming that new users and established users have similar behavior. The Second approach was to segment users without substantial history from the rest of the population and fit our linear regression model to this subset of users. Neither approach showed a significant difference, possibly signalling that new users do not act significantly different from long-time users.
+
 ## Model Performance
 
 Our model performed reasonably well on Users that had substantial rental history. We utilized a linear model over our features and found that the highest coefficients were on the mean hold time for a user and the 5-period rolling median hold time. We do still see meaningful coefficients on the various puzzle piece-difficulty features indicating that they may help predict user rental time, but that a larger impact comes from behavioral features such as average and rolling median hold times.
@@ -48,4 +53,6 @@ Newps Coef [ 1.89533032  2.47786508  2.4765758   1.53903089 -0.12909683 -2.96589
  ```
  
  ## Conclusions
+ Our work seems to support the idea that hold time of puzzle packs is strongly influenced by behavioral patterns and trends specific to users. Intuitively this may make sense as everyone's schedule is different and the amount of time people have for hobbies varies widely. With this in mind we think more granular timestamps and demographic information could have high yield in learning user behavior and allowing new users to be clustered with existing users to better estimate their behavior.
  
+ Our work also supports what we had seen in our literature review that there is a linear relationship between the number of pieces and difficulty of a puzzle and how long a user holds it. However the relationship was a little weaker than we initially expected when compared to behavioral factors. One hypothesis on this is that the relative difficulty of a puzzle compared to a users skill/past-rentals may have a stronger relationship with hold-time than the puzzle difficulty alone. The intuition being that if users take on a challenge significantly outside their normal comfort zone it may have a larger impact on the hold time.
