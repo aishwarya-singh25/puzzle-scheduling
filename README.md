@@ -1,6 +1,9 @@
 # puzzle-scheduling
 Repository for hoefnagel puzzle club
 
+## Background
+Wooden Jigsaw Puzzle Club is a company based in Port Townsend, Washington, with a library of over 1000 puzzles rented by a network of puzzle enthusiasts worldwide. The ultimate goal for this project was to help the company predict puzzle hold times for individual members in order to reduce shipping costs and optimize customer satisfaction. Currently, when an active member of the club finishes a puzzle, they start a return process on the site, which generates a shipping label for the user to ship this puzzle to the next user’s location in the overall puzzle network. With the addition of this model generated in this project, we will help improve the company’s accuracy in determining the optimal shipping location for a puzzle based on the estimation of the current member’s puzzle hold time.
+
 ## Repository Structure
 ```
 .
